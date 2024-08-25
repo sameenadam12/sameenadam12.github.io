@@ -1,5 +1,5 @@
 title: Sameen Adam
-logo: /assets/img/headshot_circle.pn
+#logo: /assets/img/headshot_circle.pn
 #description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+#show_downloads: true
+theme: jekyll-theme-cayman
