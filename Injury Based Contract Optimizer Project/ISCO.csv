@@ -1,0 +1,442 @@
+Sr No,Team,Player,POS,Country,Annual Salary,Weekly Wage,Age,Total Days Injured,Total Injury Count,Days Injured per Season,Days Missed per Injury,Injury Risk Score,Cluster Label,percent_change,FitWage,InjuredWage,Recommendation,Injury Risk Percentile_POS,Injury Risk Percentile_Team,Salary Percentile_POS,Salary Percentile_Team
+0,AFC Bouremouth,Jaidon Anthony, F , GBR ,1300000,25000,24,0,0,0,0,2.4,No Risk,0,25000,25000,Dream Player: Minimal risk of injury in the future.,84.44,90.91,27.78,34.09
+1,AFC Bouremouth,Antoine Semenyo, F , GHA ,1040000,20000,24,0,0,0,0,2.4,No Risk,0,20000,20000,Dream Player: Minimal risk of injury in the future.,84.44,90.91,22.22,25
+2,AFC Bouremouth,Mark Travers, GK , IRL ,1040000,20000,25,0,0,0,0,2.5,No Risk,0,20000,20000,Dream Player: Minimal risk of injury in the future.,79.17,81.82,33.33,25
+3,AFC Bouremouth,Joe Rothwell, M , GBR ,416000,8000,29,0,0,0,0,2.9,No Risk,0,8000,8000,Dream Player: Minimal risk of injury in the future.,84.93,77.27,9.56,13.64
+4,AFC Bouremouth,Gavin Kilkenny, M , IRL ,78000,1500,24,0,0,0,0,2.4,No Risk,0,1500,1500,Dream Player: Minimal risk of injury in the future.,90.07,90.91,0.74,4.55
+5,Arsenal FC,Declan Rice,M, GBR ,12480000,240000,25,0,0,0,0,2.5,No Risk,0,240000,240000,Dream Player: Minimal risk of injury in the future.,85.71,93.75,100,89.58
+6,Arsenal FC,Eddie Nketiah, F , GBR ,5200000,100000,25,0,0,0,0,2.5,No Risk,0,100000,100000,Dream Player: Minimal risk of injury in the future.,82.22,93.75,77.78,43.75
+7,Aston Villa FC,Ollie Watkins, F , GBR ,6760000,130000,28,0,0,0,0,2.8,No Risk,0,130000,130000,Dream Player: Minimal risk of injury in the future.,77.78,90,87.22,87.5
+8,Aston Villa FC,Tim Iroegbunam, M , GBR ,210000,4038,20,0,0,0,0,2,No Risk,0,4038,4038,Dream Player: Minimal risk of injury in the future.,96.32,95,2.21,5
+9,Brentford FC,David Raya, GK , ESP ,4420000,85000,28,0,0,0,0,2.8,No Risk,0,85000,85000,Dream Player: Minimal risk of injury in the future.,75,75.93,83.33,100
+10,Brentford FC,Frank Onyeka, M , NGA ,1300000,25000,26,0,0,0,0,2.6,No Risk,0,25000,25000,Dream Player: Minimal risk of injury in the future.,86.76,85.19,21.69,44.44
+11,Brentford FC,Yoane Wissa, F , FRA ,1300000,25000,27,0,0,0,0,2.7,No Risk,0,25000,25000,Dream Player: Minimal risk of injury in the future.,79.44,81.48,27.78,44.44
+12,Brentford FC,Ellery Balcombe, GK , GBR ,520000,10000,24,0,0,0,0,2.4,No Risk,0,10000,10000,Dream Player: Minimal risk of injury in the future.,85.42,88.89,21.88,22.22
+13,Brentford FC,Hakon Valdimarsson, GK , ISL ,520000,10000,22,0,0,0,0,2.2,No Risk,0,10000,10000,Dream Player: Minimal risk of injury in the future.,91.67,92.59,21.88,22.22
+14,Brentford FC,Charlie Goode, D , GBR ,416000,8000,28,0,0,0,0,2.8,No Risk,0,8000,8000,Dream Player: Minimal risk of injury in the future.,89.16,75.93,5.59,14.81
+15,Brentford FC,Fin Stevens, D , GBR ,280000,5385,21,0,0,0,0,2.1,No Risk,0,5385,5385,Dream Player: Minimal risk of injury in the future.,96.5,96.3,4.2,11.11
+16,Brighton & Hove Albion,Bart Verbruggen, GK , NLD ,1820000,35000,21,0,0,0,0,2.1,No Risk,0,35000,35000,Dream Player: Minimal risk of injury in the future.,94.79,88.46,51.04,55.77
+17,Brighton & Hove Albion,Jan Paul van Hecke, D , NLD ,1560000,30000,24,0,0,0,0,2.4,No Risk,0,30000,30000,Dream Player: Minimal risk of injury in the future.,94.06,84.62,25.17,48.08
+18,Brighton & Hove Albion,Carlos Baleba, M , CMR ,650000,12500,20,0,0,0,0,2,No Risk,0,12500,12500,Dream Player: Minimal risk of injury in the future.,96.32,92.31,13.24,17.31
+19,Brighton & Hove Albion,Jack Hinshelwood, M , GBR ,520000,10000,19,0,0,0,0,1.9,No Risk,0,10000,10000,Dream Player: Minimal risk of injury in the future.,99.26,96.15,11.4,7.69
+20,Brighton & Hove Albion,Jakub Moder, M , POL ,520000,10000,25,0,0,0,0,2.5,No Risk,0,10000,10000,Dream Player: Minimal risk of injury in the future.,88.24,80.77,11.4,7.69
+21,Chelsea FC,David Fofana, F , CIV ,10400000,200000,21,0,0,0,0,2.1,No Risk,0,200000,200000,Dream Player: Minimal risk of injury in the future.,91.11,88.33,95,90
+22,Chelsea FC,Conor Gallagher, M , GBR ,2600000,50000,24,0,0,0,0,2.4,No Risk,0,50000,50000,Dream Player: Minimal risk of injury in the future.,90.07,81.67,45.96,40
+23,Chelsea FC,Djordje Petrovic, GK , SRB ,1300000,25000,24,0,0,0,0,2.4,No Risk,0,25000,25000,Dream Player: Minimal risk of injury in the future.,85.42,81.67,38.54,16.67
+24,Chelsea FC,Diego Moreira, F , PRT ,520000,10000,19,0,0,0,0,1.9,No Risk,0,10000,10000,Dream Player: Minimal risk of injury in the future.,96.67,95,13.89,13.33
+25,Chelsea FC,Cesare Casadei, M , ITA ,390000,7500,21,0,0,0,0,2.1,No Risk,0,7500,7500,Dream Player: Minimal risk of injury in the future.,93.01,88.33,8.46,10
+26,Chelsea FC,Deivid Washington, F , BRA ,364000,7000,19,0,0,0,0,1.9,No Risk,0,7000,7000,Dream Player: Minimal risk of injury in the future.,96.67,95,6.67,6.67
+27,Crystal Palace FC,Matheus Franca, M , BRA ,2080000,40000,20,0,0,0,0,2,No Risk,0,40000,40000,Dream Player: Minimal risk of injury in the future.,96.32,91.3,35.66,34.78
+28,Crystal Palace FC,Adam Wharton, M , ENG ,1820000,35000,20,0,0,0,0,2,No Risk,0,35000,35000,Dream Player: Minimal risk of injury in the future.,96.32,91.3,31.25,21.74
+29,Crystal Palace FC,Joe Whitworth, GK , GBR ,520000,10000,20,0,0,0,0,2,No Risk,0,10000,10000,Dream Player: Minimal risk of injury in the future.,97.92,91.3,21.88,8.7
+30,Everton FC,Chermiti, F , PRT ,1560000,30000,20,0,0,0,0,2,No Risk,0,30000,30000,Dream Player: Minimal risk of injury in the future.,94.44,94.74,33.33,34.21
+31,Everton FC,Lewis Dobbin, F , GBR ,416000,8000,21,0,0,0,0,2.1,No Risk,0,8000,8000,Dream Player: Minimal risk of injury in the future.,91.11,89.47,10.56,10.53
+32,Everton FC,Joao Virginia, GK , PRT ,390000,7500,24,0,0,0,0,2.4,No Risk,0,7500,7500,Dream Player: Minimal risk of injury in the future.,85.42,84.21,10.42,5.26
+33,Ipswich Town FC,Leif Davis, D , GBR ,490000,9423,24,0,0,0,0,2.4,No Risk,0,9423,9423,Dream Player: Minimal risk of injury in the future.,94.06,81.25,6.99,87.5
+34,Ipswich Town FC,George Edmundson, D , GBR ,460000,8846,26,0,0,0,0,2.6,No Risk,0,8846,8846,Dream Player: Minimal risk of injury in the future.,91.26,59.38,6.29,81.25
+35,Ipswich Town FC,Conor Chaplin, F , GBR ,390000,7500,27,0,0,0,0,2.7,No Risk,0,7500,7500,Dream Player: Minimal risk of injury in the future.,79.44,50,8.33,75
+36,Ipswich Town FC,Marcus Harness, M , IRL ,330000,6346,28,0,0,0,0,2.8,No Risk,0,6346,6346,Dream Player: Minimal risk of injury in the future.,86.03,40.62,7.35,68.75
+37,Ipswich Town FC,Ali Al-Hamadi, F , IRQ ,260000,5000,22,0,0,0,0,2.2,No Risk,0,5000,5000,Dream Player: Minimal risk of injury in the future.,87.22,87.5,4.44,43.75
+38,Ipswich Town FC,Wes Burns, F , GBR ,260000,5000,29,0,0,0,0,2.9,No Risk,0,5000,5000,Dream Player: Minimal risk of injury in the future.,76.67,31.25,4.44,43.75
+39,Ipswich Town FC,Massimo Luongo, M , AUS ,260000,5000,31,0,0,0,0,3.1,No Risk,0,5000,5000,Dream Player: Minimal risk of injury in the future.,83.82,25,4.41,43.75
+40,Ipswich Town FC,Jack Taylor, M , IRL ,260000,5000,25,0,0,0,0,2.5,No Risk,0,5000,5000,Dream Player: Minimal risk of injury in the future.,88.24,71.88,4.41,43.75
+41,Ipswich Town FC,Cameron Burgess, D , AUS ,250000,4808,28,0,0,0,0,2.8,No Risk,0,4808,4808,Dream Player: Minimal risk of injury in the future.,89.16,40.62,2.1,25
+42,Ipswich Town FC,Luke Woolfenden, D , GBR ,200000,3846,25,0,0,0,0,2.5,No Risk,0,3846,3846,Dream Player: Minimal risk of injury in the future.,92.66,71.88,1.4,18.75
+43,Ipswich Town FC,Nathan Broadhead, F , GBR ,156000,3000,26,0,0,0,0,2.6,No Risk,0,3000,3000,Dream Player: Minimal risk of injury in the future.,81.11,59.38,1.11,12.5
+44,Ipswich Town FC,Cieran Slicker, GK , GBR ,52000,1000,21,0,0,0,0,2.1,No Risk,0,1000,1000,Dream Player: Minimal risk of injury in the future.,94.79,93.75,2.08,6.25
+45,Leicester City FC,Conor Coady, D , GBR ,3900000,75000,31,0,0,0,0,3.1,No Risk,0,75000,75000,Dream Player: Minimal risk of injury in the future.,87.41,80.95,69.58,73.81
+46,Leicester City FC,Wout Faes, D , BEL ,2600000,50000,26,0,0,0,0,2.6,No Risk,0,50000,50000,Dream Player: Minimal risk of injury in the future.,91.26,85.71,51.05,54.76
+47,Leicester City FC,Thomas Cannon, F , IRL ,416000,8000,21,0,0,0,0,2.1,No Risk,0,8000,8000,Dream Player: Minimal risk of injury in the future.,91.11,95.24,10.56,14.29
+48,Leicester City FC,Jakub Stolarczyk, GK , POL ,260000,5000,23,0,0,0,0,2.3,No Risk,0,5000,5000,Dream Player: Minimal risk of injury in the future.,89.58,90.48,4.17,7.14
+49,Manchester City FC,Julian Alvarez, F , ARG ,5200000,100000,24,0,0,0,0,2.4,No Risk,0,100000,100000,Dream Player: Minimal risk of injury in the future.,84.44,84,77.78,38
+50,Manchester City FC,Oscar Bobb, M , NOR ,2600000,50000,20,0,0,0,0,2,No Risk,0,50000,50000,Dream Player: Minimal risk of injury in the future.,96.32,92,45.96,24
+51,Manchester City FC,Rico Lewis, D , GBR ,1300000,25000,19,0,0,0,0,1.9,No Risk,0,25000,25000,Dream Player: Minimal risk of injury in the future.,98.95,96,19.58,12
+52,Manchester City FC,James McAtee, M , GBR ,780000,15000,21,0,0,0,0,2.1,No Risk,0,15000,15000,Dream Player: Minimal risk of injury in the future.,93.01,88,15.07,4
+53,Manchester United FC,Alejandro Garnacho, F , ESP ,2600000,50000,19,0,0,0,0,1.9,No Risk,0,50000,50000,Dream Player: Minimal risk of injury in the future.,96.67,95.24,49.44,19.05
+54,Newcastle United FC,Jacob Murphy, M , GBR ,1820000,35000,29,0,0,0,0,2.9,No Risk,0,35000,35000,Dream Player: Minimal risk of injury in the future.,84.93,91.3,31.25,17.39
+55,Newcastle United FC,Lewis Hall, D , GBR ,364000,7000,19,0,0,0,0,1.9,No Risk,0,7000,7000,Dream Player: Minimal risk of injury in the future.,98.95,95.65,4.9,4.35
+56,Nottingham Forest FC,Andrew Omobamidele, D , IRL ,1820000,35000,21,0,0,0,0,2.1,No Risk,0,35000,35000,Dream Player: Minimal risk of injury in the future.,96.5,88.1,31.12,42.86
+57,Nottingham Forest FC,Matz Sels, GK , BEL ,1820000,35000,32,0,0,0,0,3.2,No Risk,0,35000,35000,Dream Player: Minimal risk of injury in the future.,70.83,66.67,51.04,42.86
+58,Nottingham Forest FC,Murillo, D , BRA ,1560000,30000,21,0,0,0,0,2.1,No Risk,0,30000,30000,Dream Player: Minimal risk of injury in the future.,96.5,88.1,25.17,33.33
+59,Nottingham Forest FC,Anthony Elanga, F , CMR ,1300000,25000,22,0,0,0,0,2.2,No Risk,0,25000,25000,Dream Player: Minimal risk of injury in the future.,87.22,80.95,27.78,26.19
+60,Nottingham Forest FC,Lewis O'Brien, M , GBR ,780000,15000,25,0,0,0,0,2.5,No Risk,0,15000,15000,Dream Player: Minimal risk of injury in the future.,88.24,76.19,15.07,16.67
+61,Nottingham Forest FC,Harry Toffolo, D , GBR ,780000,15000,28,0,0,0,0,2.8,No Risk,0,15000,15000,Dream Player: Minimal risk of injury in the future.,89.16,71.43,12.94,16.67
+62,Nottingham Forest FC,Brandon Aguilera, M , CRI ,520000,10000,20,0,0,0,0,2,No Risk,0,10000,10000,Dream Player: Minimal risk of injury in the future.,96.32,95.24,11.4,9.52
+63,Southhampton FC,Jan Bednarek, D , POL ,3120000,60000,28,0,0,0,0,2.8,No Risk,0,60000,60000,Dream Player: Minimal risk of injury in the future.,89.16,64.71,63.29,94.12
+64,Southhampton FC,Sekou Mara, F , FRA ,1300000,25000,21,0,0,0,0,2.1,No Risk,0,25000,25000,Dream Player: Minimal risk of injury in the future.,91.11,73.53,27.78,61.76
+65,Southhampton FC,Samuel Edozie, F , GBR ,780000,15000,21,0,0,0,0,2.1,No Risk,0,15000,15000,Dream Player: Minimal risk of injury in the future.,91.11,73.53,17.78,29.41
+66,Southhampton FC,Juan Larios, D , ESP ,780000,15000,20,0,0,0,0,2,No Risk,0,15000,15000,Dream Player: Minimal risk of injury in the future.,97.9,85.29,12.94,29.41
+67,Southhampton FC,Shea Charles, M , GBR ,312000,6000,20,0,0,0,0,2,No Risk,0,6000,6000,Dream Player: Minimal risk of injury in the future.,96.32,85.29,6.62,11.76
+68,Southhampton FC,Samuel Amo-Ameyaw, F , GHA ,260000,5000,17,0,0,0,0,1.7,No Risk,0,5000,5000,Dream Player: Minimal risk of injury in the future.,98.89,94.12,4.44,5.88
+69,Tottenham Hotspurs FC,Alfie Whiteman, GK , GBR ,390000,7500,25,0,0,0,0,2.5,No Risk,0,7500,7500,Dream Player: Minimal risk of injury in the future.,79.17,94.83,10.42,5.17
+70,Tottenham Hotspurs FC,Brandon Austin, GK , GBR ,390000,7500,25,0,0,0,0,2.5,No Risk,0,7500,7500,Dream Player: Minimal risk of injury in the future.,79.17,94.83,10.42,5.17
+71,Wolverhampton Wanderers FC,Boubacar Traore, M , MLI ,2860000,55000,22,0,0,0,0,2.2,No Risk,0,55000,55000,Dream Player: Minimal risk of injury in the future.,91.91,92.5,51.1,85
+72,Wolverhampton Wanderers FC,Ki-Jana Hoever, D , NLD ,2100000,40385,22,0,0,0,0,2.2,No Risk,0,40385,40385,Dream Player: Minimal risk of injury in the future.,95.1,92.5,39.86,60
+73,Wolverhampton Wanderers FC,Joao Gomes, M , BRA ,1560000,30000,23,0,0,0,0,2.3,No Risk,0,30000,30000,Dream Player: Minimal risk of injury in the future.,91.18,85,25.74,47.5
+74,Wolverhampton Wanderers FC,Toti, D , PRT ,1300000,25000,25,0,0,0,0,2.5,No Risk,0,25000,25000,Dream Player: Minimal risk of injury in the future.,92.66,80,19.58,35
+75,Wolverhampton Wanderers FC,Tom King, GK , GBR ,520000,10000,29,0,0,0,0,2.9,No Risk,0,10000,10000,Dream Player: Minimal risk of injury in the future.,72.92,75,21.88,17.5
+76,AFC Bouremouth,Justin Kluivert,F,NLD,4160000,80000,25,203,10,25.38,20.3,14.08,LowRisk-LowWage,8.43,83372,73256,"Reliable Depth: Solid contributors, good value.",28.57,50,42.86,100
+77,AFC Bouremouth,Tyler Adams, M , USA ,3120000,60000,25,339,11,42.38,30.82,20.976,MediumRisk-LowWage,10.1,63030,53940,"Value Rotation: Good balance, valuable backups.",31.62,22.73,54.41,95.45
+78,AFC Bouremouth,David Brooks, M , GBR ,2860000,55000,26,906,13,100.67,69.69,45.39,HighRisk-LowWage,16.04,59411,46178,"Depth Option: Consider for backup option, injury risk a major factor.",5.88,4.55,51.1,90.91
+79,AFC Bouremouth,Ryan Christie, M , GBR ,2600000,50000,29,216,9,18,24,13.52413793,LowRisk-LowWage,8.29,52072,45856,"Reliable Depth: Solid contributors, good value.",55.15,54.55,45.96,79.55
+80,AFC Bouremouth,Neto, GK , ITA ,2600000,50000,24,291,10,41.57,29.1,20.23416667,MediumRisk-LowWage,9.92,52480,45040,"Value Rotation: Good balance, valuable backups.",22.92,27.27,67.71,79.55
+81,AFC Bouremouth,Marcos Senesi, D , ITA ,2600000,50000,27,50,5,5,10,6.524074074,LowRisk-LowWage,6.59,51647,46705,"Reliable Depth: Solid contributors, good value.",83.92,63.64,51.05,79.55
+82,AFC Bouremouth,Dominic Solanke, F , GBR ,2600000,50000,26,242,8,26.89,30.25,17.00807692,LowRisk-LowWage,9.14,52285,45430,"Reliable Depth: Solid contributors, good value.",40,36.36,49.44,79.55
+83,AFC Bouremouth,Philip Billing, M , DNK ,2340000,45000,28,215,7,19.55,30.71,15.465,LowRisk-LowWage,8.76,46971,41058,"Reliable Depth: Solid contributors, good value.",47.06,45.45,39.34,68.18
+84,AFC Bouremouth,Lewis Cook, M , GBR ,2080000,40000,27,804,5,80.4,160.8,63.07407407,HighRisk-LowWage,20.35,44070,31860,"Depth Option: Consider for backup option, injury risk a major factor.",1.47,0,35.66,63.64
+85,AFC Bouremouth,Romain Faivre, M , FRA ,1820000,35000,25,30,3,3.75,10,5.9855,LowRisk-LowWage,6.46,36130,32739,"Reliable Depth: Solid contributors, good value.",77.21,68.18,31.25,50
+86,AFC Bouremouth,Chris Mepham, D , GBR ,1820000,35000,26,246,8,27.33,30.75,17.24307692,LowRisk-LowWage,9.2,36610,31780,"Reliable Depth: Solid contributors, good value.",39.16,31.82,31.12,50
+87,AFC Bouremouth,Dango Ouattara, F , BFA ,1820000,35000,22,7,1,1.4,7,4.318181818,LowRisk-LowWage,0,35000,35000,"Reliable Depth: Solid contributors, good value.",75.56,72.73,36.67,50
+88,AFC Bouremouth,Adam Smith, D , GBR ,1820000,35000,33,524,14,32.75,37.43,21.01469697,MediumRisk-LowWage,10.11,36769,31462,"Value Rotation: Good balance, valuable backups.",27.97,18.18,31.12,50
+89,AFC Bouremouth,Marcus Tavernier, M , GBR ,1820000,35000,25,170,3,21.25,56.67,22.028,MediumRisk-LowWage,10.36,36813,31374,"Value Rotation: Good balance, valuable backups.",28.68,13.64,31.25,50
+90,AFC Bouremouth,Ilya Zabarnyi, D , UKR ,1300000,25000,21,66,3,16.5,22,11.78214286,LowRisk-LowWage,7.87,25983,23033,"Reliable Depth: Solid contributors, good value.",69.93,59.09,19.58,34.09
+91,AFC Bouremouth,Kieffer Moore, F , GBR ,920000,17692,31,171,4,12.21,42.75,16.8916129,LowRisk-LowWage,9.11,18497,16081,"Reliable Depth: Solid contributors, good value.",41.11,40.91,20,18.18
+92,AFC Bouremouth,James Hill, D , GBR ,156000,3000,22,227,3,45.4,75.67,32.52204545,HighRisk-LowWage,12.91,3193,2613,"Depth Option: Consider for backup option, injury risk a major factor.",6.99,9.09,0.7,9.09
+93,Arsenal FC,Kai Havertz, M , DEU ,14560000,280000,25,110,11,13.75,10,8.6135,LowRisk-HighWage,7.1,280000,260120,Core Star: Build your team around them.,69.12,70.83,96.32,100
+94,Arsenal FC,Gabriel Jesus, F , BRA ,13780000,265000,27,370,15,37,24.67,18.33972222,LowRisk-HighWage,9.46,265000,239931,Core Star: Build your team around them.,35.56,37.5,96.67,95.83
+95,Arsenal FC,Martin Odegaard, M , NOR ,12480000,240000,25,265,12,33.12,22.08,16.492,LowRisk-HighWage,9.01,240000,218376,Core Star: Build your team around them.,45.59,50,94.49,89.58
+96,Arsenal FC,Thomas Partey, M , GHA ,10400000,200000,31,440,12,31.43,36.67,20.27983871,MediumRisk-HighWage,9.93,200000,180140,High Potential (Careful Management): Maximise value with strategic management,32.35,33.33,91.91,83.33
+97,Arsenal FC,Bukayo Saka, F , GBR ,10140000,195000,22,61,7,12.2,8.71,7.554772727,MediumRisk-HighWage,6.84,195000,181662,High Potential (Careful Management): Maximise value with strategic management,65.56,75,92.78,79.17
+98,Arsenal FC,William Saliba, D , FRA ,9880000,190000,23,322,4,53.67,80.5,35.91206522,MediumRisk-HighWage,13.74,190000,163894,High Potential (Careful Management): Maximise value with strategic management,4.9,4.17,96.5,75
+99,Arsenal FC,Gabriel Martinelli, F , BRA ,9360000,180000,23,259,8,43.17,32.38,21.32663043,MediumRisk-HighWage,10.19,180000,161658,High Potential (Careful Management): Maximise value with strategic management,26.67,29.17,90,70.83
+100,Arsenal FC,Ben White, D , GBR ,7800000,150000,26,31,2,3.44,15.5,7.365769231,MediumRisk-HighWage,6.79,150000,139815,High Potential (Careful Management): Maximise value with strategic management,81.82,79.17,91.26,64.58
+101,Arsenal FC,Oleksandr Zinchenko, M , UKR ,7800000,150000,27,368,15,36.8,24.53,18.25472222,MediumRisk-HighWage,9.44,150000,135840,High Potential (Careful Management): Maximise value with strategic management,39.71,41.67,85.66,64.58
+102,Arsenal FC,Aaron Ramsdale, GK , GBR ,6240000,120000,26,11,2,1.22,5.5,4.310769231,MediumRisk-HighWage,0,120000,120000,High Potential (Careful Management): Maximise value with strategic management,66.67,87.5,94.79,58.33
+103,Arsenal FC,Jorginho, M , BRA ,5720000,110000,32,17,3,1.13,5.67,4.9375,MediumRisk-HighWage,0,110000,110000,High Potential (Careful Management): Maximise value with strategic management,81.62,83.33,78.68,54.17
+104,Arsenal FC,Gabriel Magalhaes, D , BRA ,5200000,100000,26,122,4,13.56,30.5,13.67653846,LowRisk-LowWage,8.33,104165,91670,"Reliable Depth: Solid contributors, good value.",58.74,58.33,84.62,43.75
+105,Arsenal FC,Reiss Nelson, M , GBR ,5200000,100000,24,357,12,51,29.75,22.7875,MediumRisk-LowWage,10.54,105270,89460,"Value Rotation: Good balance, valuable backups.",27.21,25,75.37,43.75
+106,Arsenal FC,Takehiro Tomiyasu, D , JPN ,5200000,100000,25,375,10,46.88,37.5,23.755,MediumRisk-LowWage,10.78,105390,89220,"Value Rotation: Good balance, valuable backups.",21.68,20.83,84.62,43.75
+107,Arsenal FC,Jurrien Timber, D , CUW ,4680000,90000,23,361,10,60.17,36.1,26.54141304,MediumRisk-LowWage,11.46,95157,79686,"Value Rotation: Good balance, valuable backups.",16.78,16.67,80.07,31.25
+108,Arsenal FC,Leandro Trossard, F , BEL ,4680000,90000,29,270,10,22.5,27,15.41293103,LowRisk-LowWage,8.75,93937,82125,"Reliable Depth: Solid contributors, good value.",48.89,54.17,72.78,31.25
+109,Arsenal FC,Jakub Kiwior, D , POL ,3016000,58000,24,22,1,3.14,22,8.701666667,LowRisk-LowWage,7.12,60064,53871,"Reliable Depth: Solid contributors, good value.",79.72,66.67,61.89,25
+110,Arsenal FC,Albert Sambi Lokonga, M , BEL ,2600000,50000,24,334,4,47.71,83.5,35.26916667,MediumRisk-LowWage,13.58,53395,43210,"Value Rotation: Good balance, valuable backups.",9.56,8.33,45.96,20.83
+111,Arsenal FC,Fabio Vieira, M , PRT ,2360000,45385,24,156,4,22.29,39,17.78916667,LowRisk-LowWage,9.33,47502,41151,"Reliable Depth: Solid contributors, good value.",41.18,45.83,41.91,16.67
+112,Arsenal FC,Emile Smith Rowe, M , GBR ,2080000,40000,23,609,10,101.5,60.9,43.07391304,HighRisk-LowWage,15.48,43096,33808,"Depth Option: Consider for backup option, injury risk a major factor.",7.35,0,35.66,12.5
+113,Arsenal FC,Nuno Tavares, D , PRT ,1560000,30000,24,77,5,11,15.4,9.083333333,LowRisk-LowWage,7.21,31081,27837,"Reliable Depth: Solid contributors, good value.",78.32,62.5,25.17,8.33
+114,Arsenal FC,Karl Hein, GK , EST ,520000,10000,22,160,2,32,80,30.23636364,MediumRisk-LowWage,12.36,10618,8764,"Value Rotation: Good balance, valuable backups.",10.42,12.5,21.88,4.17
+115,Aston Villa FC,Boubacar Kamara, M , FRA ,7800000,150000,24,220,8,31.43,27.5,17.26583333,MediumRisk-HighWage,9.2,150000,136200,High Potential (Careful Management): Maximise value with strategic management,44.12,35,85.66,97.5
+116,Aston Villa FC,Youri Tielemans, M , BEL ,7800000,150000,27,174,6,17.4,29,14.38888889,MediumRisk-HighWage,8.5,150000,137250,High Potential (Careful Management): Maximise value with strategic management,49.26,45,85.66,97.5
+117,Aston Villa FC,Moussa Diaby, F , FRA ,6760000,130000,24,18,2,2.57,9,5.325833333,MediumRisk-HighWage,6.3,130000,121810,High Potential (Careful Management): Maximise value with strategic management,71.11,85,87.22,87.5
+118,Aston Villa FC,Leon Bailey, F , JAM ,6240000,120000,26,153,8,17,19.12,11.75307692,MediumRisk-HighWage,7.86,120000,110568,High Potential (Careful Management): Maximise value with strategic management,53.33,55,83.33,72.5
+119,Aston Villa FC,Lucas Digne, D , FRA ,6240000,120000,30,245,15,18.85,16.33,11.995,MediumRisk-HighWage,7.92,120000,110496,High Potential (Careful Management): Maximise value with strategic management,68.53,50,88.46,72.5
+120,Aston Villa FC,Emiliano Martinez, GK , ARG ,6240000,120000,31,9,1,0.64,9,5.522903226,MediumRisk-HighWage,6.34,120000,112392,High Potential (Careful Management): Maximise value with strategic management,64.58,80,94.79,72.5
+121,Aston Villa FC,John McGinn, M , GBR ,6240000,120000,29,327,8,27.25,40.88,20.04284483,MediumRisk-HighWage,9.88,120000,108144,High Potential (Careful Management): Maximise value with strategic management,33.09,25,80.51,72.5
+122,Aston Villa FC,Diego Carlos, D , BRA ,5200000,100000,31,258,3,18.43,86,29.24620968,MediumRisk-LowWage,12.12,106060,87880,"Value Rotation: Good balance, valuable backups.",11.19,10,84.62,55
+123,Aston Villa FC,Tyrone Mings, D , GBR ,5200000,100000,31,940,5,67.14,188,66.94951613,VeryHighRisk-LowWage,21.29,110645,78710,"High-Risk Gamble: Potential upside, but cautious approach needed.",2.1,0,84.62,55
+124,Aston Villa FC,Pau Torres, D , ESP ,5200000,100000,27,41,2,4.1,20.5,8.87962963,LowRisk-LowWage,7.16,103580,92840,"Reliable Depth: Solid contributors, good value.",79.02,75,84.62,55
+125,Aston Villa FC,Matty Cash, D , GBR ,4160000,80000,26,160,5,17.78,32,15.12192308,LowRisk-LowWage,8.68,83472,73056,"Reliable Depth: Solid contributors, good value.",49.65,40,74.48,45
+126,Aston Villa FC,Emiliano Buendia, F , ARG ,3900000,75000,27,176,4,17.6,44,18.15925926,LowRisk-LowWage,9.42,78532,67935,"Reliable Depth: Solid contributors, good value.",36.67,30,62.78,35
+127,Aston Villa FC,Ezri Konsa, D , GBR ,3900000,75000,26,111,5,12.33,22.2,11.30942308,LowRisk-LowWage,7.75,77906,69188,"Reliable Depth: Solid contributors, good value.",74.13,65,69.58,35
+128,Aston Villa FC,Douglas Luiz, M , BRA ,3900000,75000,26,64,3,7.11,21.33,9.756153846,LowRisk-LowWage,7.37,77763,69473,"Reliable Depth: Solid contributors, good value.",66.18,70,64.34,35
+129,Aston Villa FC,Jacob Ramsey, M , GBR ,3640000,70000,23,232,4,38.67,58,26.53706522,MediumRisk-LowWage,11.46,74011,61978,"Value Rotation: Good balance, valuable backups.",13.97,15,59.93,25
+130,Aston Villa FC,Calum Chambers, D , GBR ,2600000,50000,29,458,6,38.17,76.33,31.60775862,MediumRisk-LowWage,12.69,53172,43655,"Value Rotation: Good balance, valuable backups.",9.09,5,51.05,20
+131,Aston Villa FC,Alex Moreno, D , ESP ,1820000,35000,31,195,10,13.93,19.5,11.58653226,LowRisk-LowWage,7.82,36368,32263,"Reliable Depth: Solid contributors, good value.",72.03,60,31.12,15
+132,Aston Villa FC,Kortney Hause, D , GBR ,520000,10000,28,312,6,28.36,52,22.97571429,MediumRisk-LowWage,10.59,10529,8941,"Value Rotation: Good balance, valuable backups.",23.08,20,9.44,10
+133,Brentford FC,Ben Mee, D , GBR ,2860000,55000,34,553,7,32.53,79,31.36485294,MediumRisk-LowWage,12.63,58473,48054,"Value Rotation: Good balance, valuable backups.",9.79,22.22,59.44,96.3
+134,Brentford FC,Bryan Mbeumo, M , FRA ,2340000,45000,24,102,2,14.57,51,18.82583333,MediumRisk-LowWage,9.58,47155,40689,"Value Rotation: Good balance, valuable backups.",37.5,51.85,39.34,92.59
+135,Brentford FC,Kristoffer Ajer, D , NOR ,2080000,40000,26,233,12,25.89,19.42,14.11211538,LowRisk-LowWage,8.43,41686,36628,"Reliable Depth: Solid contributors, good value.",56.64,62.96,37.06,88.89
+136,Brentford FC,Rico Henry, D , GBR ,1820000,35000,26,896,3,99.56,298.67,102.2036538,VeryHighRisk-LowWage,29.87,40227,24546,"High-Risk Gamble: Potential upside, but cautious approach needed.",0,0,31.12,81.48
+137,Brentford FC,Keane Lewis-Potter, F , GBR ,1820000,35000,23,113,3,18.83,37.67,16.47717391,LowRisk-LowWage,9.01,36576,31847,"Reliable Depth: Solid contributors, good value.",45.56,55.56,36.67,81.48
+138,Brentford FC,Christian Norgaard, M , DNK ,1820000,35000,30,450,9,34.62,50,24.275,MediumRisk-LowWage,10.91,36909,31182,"Value Rotation: Good balance, valuable backups.",21.32,37.04,31.25,81.48
+139,Brentford FC,Nathan Collins, D , IRL ,1560000,30000,23,93,4,15.5,23.25,12.05706522,LowRisk-LowWage,7.93,31189,27621,"Reliable Depth: Solid contributors, good value.",67.13,70.37,25.17,62.96
+140,Brentford FC,Mikkel Damsgaard, F , DNK ,1560000,30000,23,288,4,48,72,32.36956522,MediumRisk-LowWage,12.88,31932,26136,"Value Rotation: Good balance, valuable backups.",6.67,18.52,33.33,62.96
+141,Brentford FC,Josh Dasilva, M , GBR ,1560000,30000,25,594,3,74.25,198,70.6105,VeryHighRisk-LowWage,22.18,33327,23346,"High-Risk Gamble: Potential upside, but cautious approach needed.",0.74,3.7,25.74,62.96
+142,Brentford FC,Mark Flekken, GK , NLD ,1560000,30000,31,514,9,36.71,57.11,26.67112903,MediumRisk-LowWage,11.49,31723,26553,"Value Rotation: Good balance, valuable backups.",14.58,29.63,44.79,62.96
+143,Brentford FC,Aaron Hickey, D , GBR ,1560000,30000,22,244,8,48.8,30.5,22.17045455,MediumRisk-LowWage,10.39,31558,26883,"Value Rotation: Good balance, valuable backups.",24.48,40.74,25.17,62.96
+144,Brentford FC,Vitaly Janelt, M , DEU ,1560000,30000,26,255,4,28.33,63.75,25.68153846,MediumRisk-LowWage,11.25,31687,26625,"Value Rotation: Good balance, valuable backups.",17.65,33.33,25.74,62.96
+145,Brentford FC,Ethan Pinnock, D , JAM ,1560000,30000,31,63,1,4.5,63,19.98790323,MediumRisk-LowWage,9.86,31479,27042,"Value Rotation: Good balance, valuable backups.",32.17,44.44,25.17,62.96
+146,Brentford FC,Thomas Strakosha, GK , ALB ,1300000,25000,29,256,10,21.33,25.6,14.77043103,LowRisk-LowWage,8.59,26073,22853,"Reliable Depth: Solid contributors, good value.",39.58,59.26,38.54,44.44
+147,Brentford FC,Mads Roerslev, D , DNK ,1040000,20000,24,91,1,13,91,28.41666667,MediumRisk-LowWage,11.91,21191,17618,"Value Rotation: Good balance, valuable backups.",11.89,25.93,16.08,35.19
+148,Brentford FC,Ivan Toney, F , GBR ,1040000,20000,28,60,1,5.45,60,19.17678571,MediumRisk-LowWage,9.67,20967,18066,"Value Rotation: Good balance, valuable backups.",31.11,48.15,22.22,35.19
+149,Brentford FC,Shandon Baptiste, M , GRD ,780000,15000,26,581,5,64.56,116.2,47.86692308,HighRisk-LowWage,16.65,16248,12503,"Depth Option: Consider for backup option, injury risk a major factor.",4.41,14.81,15.07,29.63
+150,Brentford FC,Kevin Schade, F , DEU ,520000,10000,22,462,4,92.4,115.5,54.24772727,HighRisk-LowWage,18.2,10910,8180,"Depth Option: Consider for backup option, injury risk a major factor.",3.33,11.11,13.89,22.22
+151,Brentford FC,Yegor Yarmolyuk, M , UKR ,260000,5000,20,50,2,16.67,25,12.4575,LowRisk-LowWage,8.03,5200,4599,"Reliable Depth: Solid contributors, good value.",59.56,66.67,4.41,7.41
+152,Brentford FC,Ryan Trevitt, M , GBR ,130000,2500,21,190,1,47.5,190,61.49404762,HighRisk-LowWage,19.96,2749,2001,"Depth Option: Consider for backup option, injury risk a major factor.",2.21,7.41,1.47,3.7
+153,Brighton & Hove Albion,Lewis Dunk, D , GBR ,4160000,80000,32,78,3,5.2,26,11.0375,LowRisk-LowWage,7.69,83076,73848,"Reliable Depth: Solid contributors, good value.",75.52,65.38,74.48,98.08
+154,Brighton & Hove Albion,Kaoru Mitoma, F , JPN ,4160000,80000,27,85,3,8.5,28.33,11.95194444,LowRisk-LowWage,7.91,83164,73672,"Reliable Depth: Solid contributors, good value.",52.22,57.69,66.11,98.08
+155,Brighton & Hove Albion,Pascal Gross, M , DEU ,3380000,65000,33,149,5,9.31,29.8,13.13810606,LowRisk-LowWage,8.2,67665,59670,"Reliable Depth: Solid contributors, good value.",58.09,50,57.35,92.31
+156,Brighton & Hove Albion,James Milner, M , GBR ,3120000,60000,38,254,14,12.1,18.14,11.50736842,LowRisk-LowWage,7.8,62340,55320,"Reliable Depth: Solid contributors, good value.",61.03,61.54,54.41,86.54
+157,Brighton & Hove Albion,Danny Welbeck, F , GBR ,3120000,60000,33,1113,15,69.56,74.2,39.42181818,HighRisk-LowWage,14.59,64377,51246,"Depth Option: Consider for backup option, injury risk a major factor.",5.56,3.85,57.78,86.54
+158,Brighton & Hove Albion,Joao Pedro, F , BRA ,2860000,55000,22,148,4,29.6,37,18.92272727,MediumRisk-LowWage,9.6,57640,49720,"Value Rotation: Good balance, valuable backups.",33.33,34.62,55,78.85
+159,Brighton & Hove Albion,Adam Webster, D , GBR ,2860000,55000,29,330,15,27.5,22,15.48189655,LowRisk-LowWage,8.77,57411,50177,"Reliable Depth: Solid contributors, good value.",46.85,42.31,59.44,78.85
+160,Brighton & Hove Albion,Pervis Estupinan, D , ESP ,2660000,51154,26,355,10,39.44,35.5,21.48884615,MediumRisk-LowWage,10.23,53770,45921,"Value Rotation: Good balance, valuable backups.",25.87,30.77,56.64,73.08
+161,Brighton & Hove Albion,Solly March, M , GBR ,2600000,50000,29,264,10,22,26.4,15.13793103,LowRisk-LowWage,8.68,52170,45660,"Reliable Depth: Solid contributors, good value.",48.53,46.15,45.96,67.31
+162,Brighton & Hove Albion,Joel Veltman, D , NLD ,2600000,50000,32,585,15,39,39,22.8875,MediumRisk-LowWage,10.57,52642,44715,"Value Rotation: Good balance, valuable backups.",23.78,26.92,51.05,67.31
+163,Brighton & Hove Albion,Igor, D , BRA ,2340000,45000,26,107,4,11.89,26.75,12.32153846,LowRisk-LowWage,8,46800,41400,"Reliable Depth: Solid contributors, good value.",64.34,53.85,43.71,61.54
+164,Brighton & Hove Albion,Tariq Lamptey, D , GBR ,1820000,35000,23,424,8,70.67,53,33.35663043,MediumRisk-LowWage,13.12,37296,30408,"Value Rotation: Good balance, valuable backups.",6.29,7.69,31.12,55.77
+165,Brighton & Hove Albion,Evan Ferguson, F , IRL ,1560000,30000,19,128,3,64,42.67,28.63065789,MediumRisk-LowWage,11.97,31795,26409,"Value Rotation: Good balance, valuable backups.",12.22,11.54,33.33,48.08
+166,Brighton & Hove Albion,Valentin Barco, D , ARG ,1300000,25000,19,15,2,7.5,7.5,5.692105263,LowRisk-LowWage,6.38,25797,23405,"Reliable Depth: Solid contributors, good value.",85.31,73.08,19.58,42.31
+167,Brighton & Hove Albion,Abdallah Sima, F , SEN ,1070000,20577,23,274,6,45.67,45.67,25.23934783,MediumRisk-LowWage,11.14,21723,18285,"Value Rotation: Good balance, valuable backups.",16.67,19.23,24.44,38.46
+168,Brighton & Hove Albion,Billy Gilmour, M , GBR ,1040000,20000,23,169,3,28.17,56.33,23.47717391,MediumRisk-LowWage,10.71,21071,17858,"Value Rotation: Good balance, valuable backups.",24.26,23.08,18.01,30.77
+169,Brighton & Hove Albion,Jeremy Sarmiento, M , ECU ,1040000,20000,22,211,4,42.2,52.75,26.01022727,MediumRisk-LowWage,11.33,21133,17734,"Value Rotation: Good balance, valuable backups.",16.18,15.38,18.01,30.77
+170,Brighton & Hove Albion,Jason Steele, GK , GBR ,1040000,20000,33,158,4,9.88,39.5,15.69348485,LowRisk-LowWage,8.82,20882,18236,"Reliable Depth: Solid contributors, good value.",35.42,38.46,33.33,30.77
+171,Brighton & Hove Albion,Facundo Buonanotte, M , ARG ,780000,15000,19,10,1,5,10,5.671052632,LowRisk-LowWage,6.38,15478,14043,"Reliable Depth: Solid contributors, good value.",77.94,76.92,15.07,23.08
+172,Brighton & Hove Albion,Simon Adingra, F , CIV ,650000,12500,22,28,2,5.6,14,7.136363636,LowRisk-LowWage,6.74,12921,11658,"Reliable Depth: Solid contributors, good value.",67.78,69.23,16.67,17.31
+173,Brighton & Hove Albion,Julio Enciso, F , PRY ,520000,10000,20,326,3,108.67,108.67,56.395,HighRisk-LowWage,18.72,10936,8128,"Depth Option: Consider for backup option, injury risk a major factor.",1.11,0,13.89,7.69
+174,Chelsea FC,Raheem Sterling, M , JAM ,16900000,325000,29,299,15,24.92,19.93,14.31939655,LowRisk-HighWage,8.48,325000,297440,Core Star: Build your team around them.,50.74,63.33,98.53,100
+175,Chelsea FC,Reece James, D , GBR ,13000000,250000,24,481,15,68.71,32.07,27.845,LowRisk-HighWage,11.77,250000,220575,Core Star: Build your team around them.,13.29,23.33,99.65,96.67
+176,Chelsea FC,Ben Chilwell, D , GBR ,10400000,200000,27,575,15,57.5,38.33,26.87972222,MediumRisk-HighWage,11.54,200000,176920,High Potential (Careful Management): Maximise value with strategic management,16.08,26.67,97.9,90
+177,Chelsea FC,Wesley Fofana, D , FRA ,10400000,200000,23,817,9,136.17,90.78,59.19402174,MediumRisk-HighWage,19.4,200000,161201,High Potential (Careful Management): Maximise value with strategic management,2.8,0,97.9,90
+178,Chelsea FC,Christopher Nkunku, F , FRA ,10140000,195000,26,436,12,48.44,36.33,23.97711538,MediumRisk-HighWage,10.83,195000,173882,High Potential (Careful Management): Maximise value with strategic management,18.89,36.67,92.78,83.33
+179,Chelsea FC,Enzo Fernandez, M , ARG ,9360000,180000,23,51,3,8.5,17,8.727173913,MediumRisk-HighWage,7.12,180000,167184,High Potential (Careful Management): Maximise value with strategic management,68.38,66.67,91.18,80
+180,Chelsea FC,Marc Cucurella, M , ESP ,9100000,175000,25,200,5,25,40,18.83,MediumRisk-HighWage,9.58,175000,158235,High Potential (Careful Management): Maximise value with strategic management,36.76,43.33,90.44,76.67
+181,Chelsea FC,Moises Caicedo, M , ECU ,7800000,150000,22,34,4,6.8,8.5,6.097727273,MediumRisk-HighWage,6.48,150000,140280,High Potential (Careful Management): Maximise value with strategic management,76.47,70,85.66,73.33
+182,Chelsea FC,Malang Sarr, D , FRA ,6240000,120000,25,161,4,20.12,40.25,17.6565,MediumRisk-HighWage,9.3,120000,108840,High Potential (Careful Management): Maximise value with strategic management,37.76,46.67,88.46,70
+183,Chelsea FC,Carney Chukwuemeka, M , GBR ,5200000,100000,20,237,7,79,33.86,30.355,MediumRisk-LowWage,12.39,106195,87610,"Value Rotation: Good balance, valuable backups.",11.03,16.67,75.37,65
+184,Chelsea FC,Mykhaylo Mudryk, F , UKR ,5200000,100000,23,26,5,4.33,5.2,4.769456522,LowRisk-LowWage,0,100000,100000,"Reliable Depth: Solid contributors, good value.",73.33,76.67,77.78,65
+185,Chelsea FC,Benoit Badiashile, D , FRA ,4680000,90000,23,408,10,68,40.8,29.67391304,MediumRisk-LowWage,12.22,95499,79002,"Value Rotation: Good balance, valuable backups.",10.49,20,80.07,60
+186,Chelsea FC,Axel Disasi, D , FRA ,4160000,80000,26,33,4,3.67,8.25,5.641538462,LowRisk-LowWage,6.37,82548,74904,"Reliable Depth: Solid contributors, good value.",86.01,73.33,74.48,56.67
+187,Chelsea FC,Cole Palmer, M , GBR ,3900000,75000,22,115,3,23,38.33,17.58704545,LowRisk-LowWage,9.28,78480,68040,"Reliable Depth: Solid contributors, good value.",42.65,50,64.34,53.33
+188,Chelsea FC,Nicolas Jackson, F , SEN ,3380000,65000,22,134,4,26.8,33.5,17.34772727,LowRisk-LowWage,9.22,67996,59007,"Reliable Depth: Solid contributors, good value.",37.78,53.33,60.56,50
+189,Chelsea FC,Robert Sanchez, GK , ESP ,3120000,60000,26,154,4,17.11,38.5,16.56403846,LowRisk-LowWage,9.03,62709,54582,"Reliable Depth: Solid contributors, good value.",31.25,56.67,73.96,46.67
+190,Chelsea FC,Trevoh Chalobah, D , GBR ,2600000,50000,24,269,5,38.43,53.8,25.54083333,MediumRisk-LowWage,11.21,52802,44395,"Value Rotation: Good balance, valuable backups.",17.48,30,51.05,40
+191,Chelsea FC,Noni Madueke, F , NGA ,2600000,50000,22,297,10,59.4,29.7,24.65681818,MediumRisk-LowWage,11,52750,44500,"Value Rotation: Good balance, valuable backups.",17.78,33.33,49.44,40
+192,Chelsea FC,Malo Gusto, D , FRA ,2340000,45000,21,134,9,33.5,14.89,14.36892857,LowRisk-LowWage,8.5,46912,41175,"Reliable Depth: Solid contributors, good value.",54.55,60,43.71,30
+193,Chelsea FC,Romeo Lavia, M , BEL ,2340000,45000,20,337,5,112.33,67.4,47.0325,HighRisk-LowWage,16.44,48699,37602,"Depth Option: Consider for backup option, injury risk a major factor.",5.15,3.33,39.34,30
+194,Chelsea FC,Lesley Ugochukwu, M , FRA ,2340000,45000,20,200,3,66.67,66.67,35.395,HighRisk-LowWage,13.61,48062,38876,"Depth Option: Consider for backup option, injury risk a major factor.",8.82,6.67,39.34,30
+195,Chelsea FC,Armando Broja, F , GBR ,2080000,40000,22,351,8,70.2,43.88,30.86545455,MediumRisk-LowWage,12.51,42502,34996,"Value Rotation: Good balance, valuable backups.",8.89,13.33,40.56,23.33
+196,Chelsea FC,Marcus Bettinelli, GK , GBR ,1820000,35000,32,515,6,34.33,85.83,33.315,MediumRisk-LowWage,13.11,37294,30412,"Value Rotation: Good balance, valuable backups.",6.25,10,51.04,20
+197,Chelsea FC,Levi Colwill, D , GBR ,260000,5000,21,178,6,44.5,29.67,20.75678571,MediumRisk-LowWage,10.05,5251,4498,"Value Rotation: Good balance, valuable backups.",30.07,40,3.15,3.33
+198,Crystal Palace FC,Eberechi Eze, M , GBR ,5200000,100000,25,197,4,24.62,49.25,21.0315,MediumRisk-LowWage,10.12,105059,89881,"Value Rotation: Good balance, valuable backups.",30.88,52.17,75.37,95.65
+199,Crystal Palace FC,Dean Henderson, GK , GBR ,5200000,100000,27,306,4,30.6,76.5,29.53425926,MediumRisk-LowWage,12.19,106095,87810,"Value Rotation: Good balance, valuable backups.",12.5,8.7,88.54,95.65
+200,Crystal Palace FC,Michael Olise, M , FRA ,5200000,100000,22,209,4,41.8,52.25,25.78522727,MediumRisk-LowWage,11.27,105635,88730,"Value Rotation: Good balance, valuable backups.",16.91,17.39,75.37,95.65
+201,Crystal Palace FC,Odsonne Edouard, F , FRA ,4680000,90000,26,130,10,14.44,13,9.613846154,LowRisk-LowWage,7.34,93303,83394,"Reliable Depth: Solid contributors, good value.",60,73.91,72.78,86.96
+202,Crystal Palace FC,Joachim Andersen, D , DNK ,4160000,80000,28,83,4,7.55,20.75,9.932142857,LowRisk-LowWage,7.42,82968,74064,"Reliable Depth: Solid contributors, good value.",76.22,69.57,74.48,82.61
+203,Crystal Palace FC,Jefferson Lerma, M , COL ,3640000,70000,29,254,13,21.17,19.54,13.25681034,LowRisk-LowWage,8.23,72880,64239,"Reliable Depth: Solid contributors, good value.",56.62,65.22,59.93,78.26
+204,Crystal Palace FC,Cheick Doucoure, M , MLI ,3120000,60000,24,222,4,31.71,55.5,24.26916667,MediumRisk-LowWage,10.9,63270,53460,"Value Rotation: Good balance, valuable backups.",22.06,30.43,54.41,71.74
+205,Crystal Palace FC,Jeffrey Schlupp, D , DEU ,3120000,60000,31,445,9,31.79,49.44,23.52362903,MediumRisk-LowWage,10.72,63216,53568,"Value Rotation: Good balance, valuable backups.",22.38,34.78,63.29,71.74
+206,Crystal Palace FC,Chris Richards, D , USA ,2860000,55000,24,332,8,47.43,41.5,24.76583333,MediumRisk-LowWage,11.03,58033,48934,"Value Rotation: Good balance, valuable backups.",18.88,21.74,59.44,65.22
+207,Crystal Palace FC,Marc Guehi, D , CIV ,2600000,50000,23,98,2,16.33,49,18.66728261,MediumRisk-LowWage,9.54,52384,45231,"Value Rotation: Good balance, valuable backups.",33.57,56.52,51.05,56.52
+208,Crystal Palace FC,Will Hughes, M , GBR ,2600000,50000,29,490,11,40.83,44.55,24.39672414,MediumRisk-LowWage,10.94,52735,44530,"Value Rotation: Good balance, valuable backups.",20.59,26.09,45.96,56.52
+209,Crystal Palace FC,Jean-Philippe Mateta, F , FRA ,2600000,50000,26,132,2,14.67,66,22.79826923,MediumRisk-LowWage,10.55,52637,44725,"Value Rotation: Good balance, valuable backups.",22.22,39.13,49.44,56.52
+210,Crystal Palace FC,Rob Holding, D , GBR ,2340000,45000,28,342,4,31.09,85.5,32.00464286,MediumRisk-LowWage,12.79,47877,39245,"Value Rotation: Good balance, valuable backups.",7.69,4.35,43.71,45.65
+211,Crystal Palace FC,Daniel Munoz, D , COL ,2340000,45000,28,26,2,2.36,13,6.668571429,LowRisk-LowWage,6.62,46489,42021,"Reliable Depth: Solid contributors, good value.",83.22,78.26,43.71,45.65
+212,Crystal Palace FC,Sam Johnstone, GK , GBR ,2080000,40000,31,223,4,15.93,55.75,21.0716129,MediumRisk-LowWage,10.13,42026,35948,"Value Rotation: Good balance, valuable backups.",20.83,47.83,59.38,34.78
+213,Crystal Palace FC,Tyrick Mitchell, D , GBR ,2080000,40000,24,224,5,32,44.8,21.68333333,MediumRisk-LowWage,10.28,42056,35888,"Value Rotation: Good balance, valuable backups.",25.17,43.48,37.06,34.78
+214,Crystal Palace FC,Jordan Ayew, F , FRA ,1820000,35000,32,20,2,1.33,10,6.0575,LowRisk-LowWage,6.47,36132,32736,"Reliable Depth: Solid contributors, good value.",70,82.61,36.67,21.74
+215,Crystal Palace FC,Joel Ward, D , GBR ,1820000,35000,34,160,5,9.41,32,13.81132353,LowRisk-LowWage,8.36,36463,32074,"Reliable Depth: Solid contributors, good value.",57.34,60.87,31.12,21.74
+216,Crystal Palace FC,Naouirou Ahamada, M , FRA ,1040000,20000,22,292,8,58.4,36.5,26.07045455,MediumRisk-LowWage,11.34,21134,17732,"Value Rotation: Good balance, valuable backups.",15.44,13.04,18.01,13.04
+217,Crystal Palace FC,Jesurun Rak-Sakyi, M , GBR ,390000,7500,21,176,1,44,176,57.11904762,HighRisk-LowWage,18.9,8208,6083,"Depth Option: Consider for backup option, injury risk a major factor.",2.94,0,8.46,4.35
+218,Everton FC,Abdoulaye Doucoure, M , FRA ,6760000,130000,31,431,6,30.79,71.83,28.83241935,MediumRisk-HighWage,12.01,130000,114387,High Potential (Careful Management): Maximise value with strategic management,11.76,0,81.99,100
+219,Everton FC,Jordan Pickford, GK , GBR ,6500000,125000,30,116,4,8.92,29,12.53333333,MediumRisk-HighWage,8.05,125000,114938,High Potential (Careful Management): Maximise value with strategic management,45.83,47.37,100,94.74
+220,Everton FC,Dominic Calvert-Lewin, F , GBR ,5200000,100000,27,590,14,59,42.14,28.19240741,MediumRisk-LowWage,11.86,105930,88140,"Value Rotation: Good balance, valuable backups.",13.33,5.26,77.78,84.21
+221,Everton FC,Amadou Onana, M , SEN ,5200000,100000,22,55,4,11,13.75,8.460227273,LowRisk-LowWage,7.06,103530,92940,"Reliable Depth: Solid contributors, good value.",70.59,73.68,75.37,84.21
+222,Everton FC,James Tarkowski, D , GBR ,5200000,100000,31,169,8,12.07,21.12,11.50072581,LowRisk-LowWage,7.8,103900,92200,"Reliable Depth: Solid contributors, good value.",72.73,52.63,84.62,84.21
+223,Everton FC,Idrissa Gueye, M , SEN ,4160000,80000,34,141,12,8.29,11.75,8.551176471,LowRisk-LowWage,7.08,82832,74336,"Reliable Depth: Solid contributors, good value.",69.85,68.42,68.38,71.05
+224,Everton FC,Michael Keane, D , GBR ,4160000,80000,31,47,4,3.36,11.75,6.929112903,LowRisk-LowWage,6.69,82676,74648,"Reliable Depth: Solid contributors, good value.",82.52,78.95,74.48,71.05
+225,Everton FC,Ben Godfrey, D , GBR ,4000000,76923,26,146,6,16.22,24.33,12.82980769,LowRisk-LowWage,8.12,80046,70677,"Reliable Depth: Solid contributors, good value.",62.94,42.11,71.33,63.16
+226,Everton FC,Mason Holgate, D , GBR ,3640000,70000,27,178,5,17.8,35.6,16.12407407,LowRisk-LowWage,8.92,73122,63756,"Reliable Depth: Solid contributors, good value.",43.36,26.32,67.13,57.89
+227,Everton FC,Vitaliy Mykolenko, D , UKR ,3016000,58000,25,175,15,21.88,11.67,11.1275,LowRisk-LowWage,7.71,60235,53529,"Reliable Depth: Solid contributors, good value.",74.83,57.89,61.89,52.63
+228,Everton FC,Neal Maupay, F , FRA ,2600000,50000,27,316,6,31.6,52.67,23.85638889,MediumRisk-LowWage,10.8,52700,44600,"Value Rotation: Good balance, valuable backups.",20,10.53,49.44,47.37
+229,Everton FC,Ashley Young, D , GBR ,2080000,40000,38,555,13,26.43,42.69,21.21684211,MediumRisk-LowWage,10.16,42032,35936,"Value Rotation: Good balance, valuable backups.",27.27,15.79,37.06,42.11
+230,Everton FC,James Garner, M , GBR ,1560000,30000,23,100,2,16.67,50,19.00228261,MediumRisk-LowWage,9.62,31443,27114,"Value Rotation: Good balance, valuable backups.",36.03,21.05,25.74,34.21
+231,Everton FC,Nathan Patterson, D , GBR ,1456000,28000,22,121,6,24.2,20.17,13.40159091,LowRisk-LowWage,8.26,29156,25688,"Reliable Depth: Solid contributors, good value.",60.84,36.84,21.68,26.32
+232,Everton FC,Dwight McNeil, F , GBR ,1300000,25000,24,75,5,10.71,15,8.910833333,LowRisk-LowWage,7.17,25896,23208,"Reliable Depth: Solid contributors, good value.",63.33,63.16,27.78,21.05
+233,Everton FC,Jarrad Branthwaite, D , GBR ,780000,15000,21,123,6,30.75,20.5,15.02678571,LowRisk-LowWage,8.66,15649,13701,"Reliable Depth: Solid contributors, good value.",50.35,31.58,12.94,15.79
+234,Fulham FC,Raul Jimenez, F , MEX ,5200000,100000,33,458,11,28.62,41.64,20.99833333,MediumRisk-LowWage,10.11,105055,89890,"Value Rotation: Good balance, valuable backups.",28.89,5.56,77.78,100
+235,Fulham FC,Bernd Leno, GK , DEU ,4680000,90000,32,142,6,9.47,23.67,11.56,LowRisk-LowWage,7.81,93514,82971,"Reliable Depth: Solid contributors, good value.",50,55.56,85.42,94.44
+236,Fulham FC,Alex Iwobi, F , NGA ,4160000,80000,28,128,7,11.64,18.29,10.3825,LowRisk-LowWage,7.53,83012,73976,"Reliable Depth: Solid contributors, good value.",57.78,72.22,66.11,86.11
+237,Fulham FC,Joao Palhinha, M , PRT ,4160000,80000,28,57,4,5.18,14.25,7.714642857,LowRisk-LowWage,6.88,82752,74496,"Reliable Depth: Solid contributors, good value.",72.06,88.89,68.38,86.11
+238,Fulham FC,Issa Diop, D , FRA ,3640000,70000,27,241,9,24.1,26.78,15.55333333,LowRisk-LowWage,8.78,73073,63854,"Reliable Depth: Solid contributors, good value.",45.45,38.89,67.13,77.78
+239,Fulham FC,Timothy Castagne, D , BEL ,3380000,65000,28,235,6,21.36,39.17,18.01821429,LowRisk-LowWage,9.38,68048,58903,"Reliable Depth: Solid contributors, good value.",37.06,22.22,65.03,69.44
+240,Fulham FC,Adama Traore, F , ESP ,3380000,65000,28,342,14,31.09,24.43,16.88,LowRisk-LowWage,9.11,67960,59079,"Reliable Depth: Solid contributors, good value.",42.22,27.78,60.56,69.44
+241,Fulham FC,Sasa Lukic, M , SRB ,3276000,63000,27,136,10,13.6,13.6,9.648148148,LowRisk-LowWage,7.35,65315,58370,"Reliable Depth: Solid contributors, good value.",67.65,77.78,56.62,61.11
+242,Fulham FC,Kenny Tete, D , NLD ,2650000,50962,28,383,15,34.82,25.53,18.10178571,LowRisk-LowWage,9.4,53357,46172,"Reliable Depth: Solid contributors, good value.",35.66,16.67,55.94,55.56
+243,Fulham FC,Andreas Pereira, M , BEL ,2600000,50000,28,104,5,9.45,20.8,10.43392857,LowRisk-LowWage,7.54,51885,46230,"Reliable Depth: Solid contributors, good value.",63.97,66.67,45.96,47.22
+244,Fulham FC,Antonee Robinson, D , USA ,2600000,50000,26,250,9,27.78,27.78,16.62846154,LowRisk-LowWage,9.05,52262,45475,"Reliable Depth: Solid contributors, good value.",41.96,33.33,51.05,47.22
+245,Fulham FC,Calvin Bassey, D , NGA ,2340000,45000,24,12,2,1.71,6,4.360833333,LowRisk-LowWage,0,45000,45000,"Reliable Depth: Solid contributors, good value.",86.71,94.44,43.71,38.89
+246,Fulham FC,Harry Wilson, M , GBR ,1820000,35000,27,165,8,16.5,20.62,12.09851852,LowRisk-LowWage,7.94,36389,32221,"Reliable Depth: Solid contributors, good value.",60.29,44.44,31.25,33.33
+247,Fulham FC,Tom Cairney, M , GBR ,1560000,30000,33,485,15,30.31,32.33,19.14181818,MediumRisk-LowWage,9.66,31449,27102,"Value Rotation: Good balance, valuable backups.",35.29,11.11,25.74,22.22
+248,Fulham FC,Tim Ream, D , USA ,1560000,30000,36,133,5,7,26.6,12.05555556,LowRisk-LowWage,7.93,31189,27621,"Reliable Depth: Solid contributors, good value.",67.83,50,25.17,22.22
+249,Fulham FC,Harrison Reed, M , GBR ,1560000,30000,29,190,12,15.83,15.83,10.98051724,LowRisk-LowWage,7.67,31150,27699,"Reliable Depth: Solid contributors, good value.",62.5,61.11,25.74,22.22
+250,Fulham FC,Steven Benda, GK , DEU ,520000,10000,25,371,2,46.38,185.5,60.502,HighRisk-LowWage,19.72,10986,8028,"Depth Option: Consider for backup option, injury risk a major factor.",2.08,0,21.88,11.11
+251,Fulham FC,Rodrigo Muniz, F , BRA ,390000,7500,23,42,2,7,21,9.334782609,LowRisk-LowWage,7.27,7772,6955,"Reliable Depth: Solid contributors, good value.",61.11,83.33,8.33,5.56
+252,Ipswich Town FC,Axel Tuanzebe, D , COD ,1040000,20000,26,566,6,62.89,94.33,41.99730769,HighRisk-LowWage,15.22,21522,16956,"Depth Option: Consider for backup option, injury risk a major factor.",3.5,0,16.08,100
+253,Ipswich Town FC,George Hirst, F , GBR ,890000,17115,25,134,2,16.75,67,23.4695,MediumRisk-LowWage,10.71,18031,15282,"Value Rotation: Good balance, valuable backups.",21.11,12.5,18.89,93.75
+254,Ipswich Town FC,Christian Walton, GK , GBR ,310000,5962,28,198,3,18,66,23.84285714,MediumRisk-LowWage,10.8,6283,5319,"Value Rotation: Good balance, valuable backups.",18.75,6.25,6.25,62.5
+255,Ipswich Town FC,Harry Clarke, D , GBR ,260000,5000,23,111,2,18.5,55.5,20.83478261,MediumRisk-LowWage,10.07,5251,4497,"Value Rotation: Good balance, valuable backups.",29.37,18.75,3.15,43.75
+256,Leicester City FC,Jamie Vardy, F , GBR ,7280000,140000,37,242,15,12.1,16.13,10.91966216,MediumRisk-HighWage,7.66,140000,129276,High Potential (Careful Management): Maximise value with strategic management,56.67,52.38,88.89,100
+257,Leicester City FC,Harry Winks, M , GBR ,4680000,90000,28,470,10,42.73,47,25.37535714,MediumRisk-LowWage,11.17,95026,79947,"Value Rotation: Good balance, valuable backups.",18.38,14.29,72.06,95.24
+258,Leicester City FC,Kelechi Iheanacho, F , NGA ,4160000,80000,27,17,3,1.7,5.67,4.586944444,LowRisk-LowWage,0,80000,80000,"Reliable Depth: Solid contributors, good value.",74.44,71.43,66.11,88.1
+259,Leicester City FC,Ricardo Pereira, D , PRT ,4160000,80000,30,587,7,45.15,83.86,35.34583333,MediumRisk-LowWage,13.6,85440,69120,"Value Rotation: Good balance, valuable backups.",5.59,9.52,74.48,88.1
+260,Leicester City FC,Patson Daka, F , ZMB ,3900000,75000,25,58,3,7.25,19.33,9.193,LowRisk-LowWage,7.24,77715,69570,"Reliable Depth: Solid contributors, good value.",62.22,61.9,62.78,73.81
+261,Leicester City FC,Wilfred Ndidi, M , NGA ,3900000,75000,27,299,9,29.9,33.22,18.61333333,MediumRisk-LowWage,9.53,78573,67853,"Value Rotation: Good balance, valuable backups.",38.24,28.57,64.34,73.81
+262,Leicester City FC,Dennis Praet, M , BEL ,3900000,75000,30,383,15,29.46,25.53,16.9475,LowRisk-LowWage,9.12,78419,68161,"Reliable Depth: Solid contributors, good value.",44.85,33.33,64.34,73.81
+263,Leicester City FC,Jannik Vestergaard, D , DNK ,3640000,70000,31,241,13,17.21,18.54,12.20524194,LowRisk-LowWage,7.97,72789,64421,"Reliable Depth: Solid contributors, good value.",65.73,47.62,67.13,61.9
+264,Leicester City FC,Hamza Choudhury, M , GBR ,2600000,50000,26,32,2,3.56,16,7.520769231,LowRisk-LowWage,6.83,51707,46585,"Reliable Depth: Solid contributors, good value.",73.53,66.67,45.96,54.76
+265,Leicester City FC,Marc Albrighton, M , GBR ,2340000,45000,34,249,5,14.65,49.8,19.57132353,MediumRisk-LowWage,9.76,47196,40608,"Value Rotation: Good balance, valuable backups.",34.56,23.81,39.34,47.62
+266,Leicester City FC,Harry Souttar, D , GBR ,2080000,40000,25,339,1,42.38,339,97.861,VeryHighRisk-LowWage,28.81,45762,28476,"High-Risk Gamble: Potential upside, but cautious approach needed.",0.7,0,37.06,40.48
+267,Leicester City FC,Danny Ward, GK , GBR ,2080000,40000,30,127,3,9.77,42.33,16.065,LowRisk-LowWage,8.91,41782,36436,"Reliable Depth: Solid contributors, good value.",33.33,38.1,59.38,40.48
+268,Leicester City FC,James Justin, D , GBR ,1560000,30000,26,535,2,59.44,267.5,84.36576923,VeryHighRisk-LowWage,25.53,33829,22341,"High-Risk Gamble: Potential upside, but cautious approach needed.",1.4,4.76,25.17,33.33
+269,Leicester City FC,Kiernan Dewsbury-Hall, M , GBR ,1040000,20000,25,4,1,0.5,4,3.641,LowRisk-LowWage,0,20000,20000,"Reliable Depth: Solid contributors, good value.",83.09,76.19,18.01,28.57
+270,Leicester City FC,Mads Hermansen, GK , DNK ,520000,10000,23,51,2,8.5,25.5,10.83478261,LowRisk-LowWage,7.64,10382,9236,"Reliable Depth: Solid contributors, good value.",52.08,57.14,21.88,21.43
+271,Leicester City FC,Stephy Mavididi, F , GBR ,520000,10000,26,242,5,26.89,48.4,21.49942308,MediumRisk-LowWage,10.23,10511,8977,"Value Rotation: Good balance, valuable backups.",25.56,19.05,13.89,21.43
+272,Leicester City FC,Kasey McAteer, M , GBR ,260000,5000,22,69,2,13.8,34.5,14.31136364,LowRisk-LowWage,8.48,5212,4576,"Reliable Depth: Solid contributors, good value.",51.47,42.86,4.41,7.14
+273,Liverpool FC,Mohamed Salah,F,EGY,18200000,350000,32,176,12,11.73,14.67,9.95,LowRisk-HighWage,7.42,350000,324030,Core Star: Build your team around them.,85.71,90.91,100,100
+274,Liverpool FC,Virgil Van Dijk,D,NLD,11440000,220000,32,608,15,40.53,40.53,23.6525,MediumRisk-HighWage,10.75,220000,196350,High Potential (Careful Management): Maximise value with strategic management,37.5,31.82,100,95.45
+275,Liverpool FC,Trent Alexander-Arnold,D,GBR,9360000,180000,25,283,13,35.38,21.77,16.9955,MediumRisk-HighWage,9.13,180000,163566,High Potential (Careful Management): Maximise value with strategic management,50,50,87.5,90.91
+276,Liverpool FC,Alisson Becker,GK,BRA,7800000,150000,31,288,12,20.57,24,14.39733871,MediumRisk-HighWage,8.5,150000,137250,High Potential (Careful Management): Maximise value with strategic management,50,59.09,100,84.09
+277,Liverpool FC,Alexis Mac Allister,M,ARG,7800000,150000,25,60,3,7.5,20,9.423,MediumRisk-HighWage,7.29,150000,139065,High Potential (Careful Management): Maximise value with strategic management,71.43,95.45,85.71,84.09
+278,Liverpool FC,Diogo Jota,F,PRT,7280000,140000,27,487,14,48.7,34.79,23.77990741,MediumRisk-HighWage,10.79,140000,124895,High Potential (Careful Management): Maximise value with strategic management,0,27.27,78.57,75
+279,Liverpool FC,Darwin Nunez,F,URY,7280000,140000,24,203,15,29,13.53,13.2825,MediumRisk-HighWage,8.23,140000,128478,High Potential (Careful Management): Maximise value with strategic management,57.14,68.18,78.57,75
+280,Liverpool FC,Cody Gakpo,F,NLD,6240000,120000,25,141,8,17.62,17.62,11.438,MediumRisk-HighWage,7.78,120000,110664,High Potential (Careful Management): Maximise value with strategic management,71.43,86.36,57.14,65.91
+281,Liverpool FC,Dominik Szoboszlai,M,HUN,6240000,120000,23,276,5,46,55.2,27.68695652,MediumRisk-HighWage,11.74,120000,105912,High Potential (Careful Management): Maximise value with strategic management,28.57,22.73,71.43,65.91
+282,Liverpool FC,Andrew Robertson,D,GBR,5200000,100000,30,223,12,17.15,18.58,12.0925,LowRisk-LowWage,7.94,103970,92060,"Reliable Depth: Solid contributors, good value.",75,77.27,75,59.09
+283,Liverpool FC,Joe Gomez,D,GBR,4420000,85000,27,832,10,83.2,83.2,44.44814815,HighRisk-LowWage,15.81,91719,71562,"Depth Option: Consider for backup option, injury risk a major factor.",0,9.09,62.5,54.55
+284,Liverpool FC,Ibrahima Konate,D,FRA,3640000,70000,25,456,10,57,45.6,28.31,MediumRisk-LowWage,11.89,74161,61677,"Value Rotation: Good balance, valuable backups.",25,18.18,50,50
+285,Liverpool FC,Luis Diaz,F,COL,2912000,56000,27,227,4,22.7,56.75,22.62175926,MediumRisk-LowWage,10.5,58940,50120,"Value Rotation: Good balance, valuable backups.",14.29,36.36,28.57,45.45
+286,Liverpool FC,Wataru Endo,M,JPN,2600000,50000,31,263,15,18.79,17.53,12.37354839,LowRisk-LowWage,8.01,52002,45995,"Reliable Depth: Solid contributors, good value.",57.14,72.73,57.14,38.64
+287,Liverpool FC,Konstantinos Tsimikas,D,GRC,2600000,50000,28,148,7,13.45,21.14,11.5475,LowRisk-LowWage,7.81,51952,46095,"Reliable Depth: Solid contributors, good value.",87.5,81.82,37.5,38.64
+288,Liverpool FC,Stefan Bajcetic,M,ESP,2080000,40000,19,429,3,214.5,143,91.33815789,VeryHighRisk-LowWage,27.22,45444,29112,"High-Risk Gamble: Potential upside, but cautious approach needed.",0,0,35.71,27.27
+289,Liverpool FC,Fabio Carvalho,F,PRT,2080000,40000,21,89,4,22.25,22.25,13.30119048,LowRisk-LowWage,8.24,41648,36704,"Reliable Depth: Solid contributors, good value.",42.86,63.64,14.29,27.27
+290,Liverpool FC,Harvey Elliott,M,GBR,2080000,40000,21,140,1,35,140,45.86904762,HighRisk-LowWage,16.16,43232,33536,"Depth Option: Consider for backup option, injury risk a major factor.",14.29,4.55,35.71,27.27
+291,Liverpool FC,Curtis Jones,M,GBR,780000,15000,23,184,5,30.67,36.8,19.25445652,MediumRisk-LowWage,9.68,15726,13548,"Value Rotation: Good balance, valuable backups.",42.86,45.45,14.29,18.18
+292,Liverpool FC,Conor Bradley,D,GBR,520000,10000,20,148,2,49.33,74,32.8725,MediumRisk-LowWage,13,10650,8700,"Value Rotation: Good balance, valuable backups.",12.5,13.64,18.75,9.09
+293,Liverpool FC,Caoimhin Kelleher,GK,IRL,520000,10000,25,115,2,14.38,57.5,20.502,MediumRisk-LowWage,9.99,10499,9001,"Value Rotation: Good balance, valuable backups.",0,40.91,50,9.09
+294,Liverpool FC,Rhys Williams,D,GBR,520000,10000,23,156,5,26,31.2,16.68695652,LowRisk-LowWage,9.06,10453,9094,"Reliable Depth: Solid contributors, good value.",62.5,54.55,18.75,9.09
+295,Manchester City FC,Kevin De Bruyne, M , BEL ,20800000,400000,32,307,15,20.47,20.47,13.6225,LowRisk-HighWage,8.31,400000,366760,Core Star: Build your team around them.,52.94,36,100,100
+296,Manchester City FC,Erling Haaland, F , NOR ,19500000,375000,23,237,15,39.5,15.8,16.38586957,LowRisk-HighWage,8.99,375000,341288,Core Star: Build your team around them.,46.67,20,100,96
+297,Manchester City FC,Jack Grealish, M , GBR ,15600000,300000,28,396,10,36,39.6,21.84285714,LowRisk-HighWage,10.31,300000,269070,Core Star: Build your team around them.,29.41,8,97.43,90
+298,Manchester City FC,Bernardo Silva, M , PRT ,15600000,300000,29,140,8,11.67,17.5,10.30284483,LowRisk-HighWage,7.51,300000,277470,Core Star: Build your team around them.,64.71,56,97.43,90
+299,Manchester City FC,John Stones, D , GBR ,13000000,250000,30,334,15,25.69,22.27,15.19,LowRisk-HighWage,8.7,250000,228250,Core Star: Build your team around them.,48.95,24,99.65,84
+300,Manchester City FC,Phil Foden, M ,GBR,11700000,225000,24,121,4,17.29,30.25,14.35166667,LowRisk-HighWage,8.49,225000,205898,Core Star: Build your team around them.,50,28,93.38,80
+301,Manchester City FC,Rodri, M , ESP ,11440000,220000,26,19,2,2.11,9.5,5.533269231,MediumRisk-HighWage,6.35,220000,206030,High Potential (Careful Management): Maximise value with strategic management,79.41,80,92.65,76
+302,Manchester City FC,Josko Gvardiol, D , HRV ,10400000,200000,22,118,6,23.6,19.67,13.12659091,MediumRisk-HighWage,8.19,200000,183620,High Potential (Careful Management): Maximise value with strategic management,62.24,40,97.9,72
+303,Manchester City FC,Manuel Akanji, D , NGA ,9360000,180000,28,554,15,50.36,36.93,24.83678571,MediumRisk-HighWage,11.04,180000,160129,High Potential (Careful Management): Maximise value with strategic management,18.18,0,94.76,66
+304,Manchester City FC,Ruben Dias, D , PRT ,9360000,180000,27,101,4,10.1,25.25,11.59675926,MediumRisk-HighWage,7.82,180000,165924,High Potential (Careful Management): Maximise value with strategic management,71.33,52,94.76,66
+305,Manchester City FC,Kyle Walker, D , GBR ,9100000,175000,27,429,14,42.9,30.64,21.29240741,MediumRisk-HighWage,10.18,175000,157185,High Potential (Careful Management): Maximise value with strategic management,26.57,16,93.71,60
+306,Manchester City FC,Nathan Ake, D , NLD ,8320000,160000,29,267,13,22.25,20.54,13.77681034,MediumRisk-HighWage,8.35,160000,146640,High Potential (Careful Management): Maximise value with strategic management,58.04,32,92.31,56
+307,Manchester City FC,Mateo Kovacic, M , AUT ,7800000,150000,30,272,15,20.92,18.13,12.9625,MediumRisk-HighWage,8.15,150000,137775,High Potential (Careful Management): Maximise value with strategic management,58.82,44,85.66,50
+308,Manchester City FC,Kalvin Phillips, M , GBR ,7800000,150000,28,236,4,21.45,59,22.96964286,MediumRisk-HighWage,10.59,150000,134115,High Potential (Careful Management): Maximise value with strategic management,25.74,4,85.66,50
+309,Manchester City FC,Matheus Nunes, M , BRA ,6760000,130000,25,20,2,2.5,10,5.657,MediumRisk-HighWage,6.38,130000,121706,High Potential (Careful Management): Maximise value with strategic management,78.68,76,81.99,44
+310,Manchester City FC,Ederson, GK , BRA ,5200000,100000,30,110,8,8.46,13.75,8.659166667,LowRisk-LowWage,7.11,103555,92890,"Reliable Depth: Solid contributors, good value.",56.25,68,88.54,38
+311,Manchester City FC,Stefan Ortega, GK , DEU ,2860000,55000,31,108,6,7.71,18,9.604919355,LowRisk-LowWage,7.34,57018,50963,"Reliable Depth: Solid contributors, good value.",54.17,60,70.83,32
+312,Manchester City FC,Jeremy Doku, F , BEL ,2600000,50000,22,249,9,49.8,27.67,21.73113636,MediumRisk-LowWage,10.29,52572,44856,"Value Rotation: Good balance, valuable backups.",24.44,12,49.44,24
+313,Manchester City FC,Sergio Gomez, D , ESP ,2600000,50000,23,43,2,7.17,21.5,9.502282609,LowRisk-LowWage,7.31,51827,46345,"Reliable Depth: Solid contributors, good value.",76.92,64,51.05,24
+314,Manchester City FC,Scott Carson, GK , GBR ,1560000,30000,38,91,3,4.33,30.33,12.49657895,LowRisk-LowWage,8.04,31205,27589,"Reliable Depth: Solid contributors, good value.",47.92,48,44.79,16
+315,Manchester City FC,Issa Kabore, D , BFA ,1040000,20000,23,34,2,5.67,17,8.002282609,LowRisk-LowWage,6.95,20695,18610,"Reliable Depth: Solid contributors, good value.",81.12,72,16.08,8
+316,Manchester United FC,Casemiro, M , ESP ,18200000,350000,32,257,11,17.13,23.36,13.46,LowRisk-HighWage,8.27,350000,321055,Core Star: Build your team around them.,55.88,66.67,99.26,100
+317,Manchester United FC,Marcus Rashford, F , GBR ,15600000,300000,26,334,12,37.11,27.83,19.01961538,LowRisk-HighWage,9.63,300000,271110,Core Star: Build your team around them.,32.22,38.1,98.89,95.24
+318,Manchester United FC,Mason Mount, M , GBR ,13000000,250000,25,327,12,40.88,27.25,19.7245,LowRisk-HighWage,9.8,250000,225500,Core Star: Build your team around them.,33.82,28.57,95.59,90.48
+319,Manchester United FC,Bruno Fernandes, M , PRT ,12480000,240000,29,26,4,2.17,6.5,5.122672414,LowRisk-HighWage,6.25,240000,225000,Core Star: Build your team around them.,80.15,90.48,94.49,85.71
+320,Manchester United FC,Antony, F , BRA ,10400000,200000,24,196,7,28,28,16.51666667,MediumRisk-HighWage,9.02,200000,181960,High Potential (Careful Management): Maximise value with strategic management,44.44,52.38,95,80.95
+321,Manchester United FC,Harry Maguire, D , GBR ,9875000,189904,31,210,9,15,23.33,12.79862903,MediumRisk-HighWage,8.11,189904,174503,High Potential (Careful Management): Maximise value with strategic management,63.64,71.43,95.8,76.19
+322,Manchester United FC,Christian Eriksen, M , DNK ,7800000,150000,32,452,9,30.13,50.22,23.4,MediumRisk-HighWage,10.69,150000,133965,High Potential (Careful Management): Maximise value with strategic management,25,23.81,85.66,69.05
+323,Manchester United FC,Luke Shaw, D , GBR ,7800000,150000,28,412,14,37.45,29.43,19.72,MediumRisk-HighWage,9.8,150000,135300,High Potential (Careful Management): Maximise value with strategic management,32.87,33.33,91.26,69.05
+324,Manchester United FC,Victor Lindelof, D , SWE ,6240000,120000,29,205,11,17.08,18.64,11.98172414,MediumRisk-HighWage,7.92,120000,110496,High Potential (Careful Management): Maximise value with strategic management,69.23,76.19,88.46,57.14
+325,Manchester United FC,Lisandro Martinez, D , ARG ,6240000,120000,26,363,8,40.33,45.38,24.15057692,MediumRisk-HighWage,10.88,120000,106944,High Potential (Careful Management): Maximise value with strategic management,20.98,19.05,88.46,57.14
+326,Manchester United FC,Andre Onana, GK , CMR ,6240000,120000,28,86,6,7.82,14.33,8.423214286,MediumRisk-HighWage,7.05,120000,111540,High Potential (Careful Management): Maximise value with strategic management,58.33,85.71,94.79,57.14
+327,Manchester United FC,Aaron Wan-Bissaka, D , GBR ,4680000,90000,26,242,10,26.89,24.2,15.52634615,LowRisk-LowWage,8.78,93951,82098,"Reliable Depth: Solid contributors, good value.",46.15,57.14,80.07,47.62
+328,Manchester United FC,Diogo Dalot, D , PRT ,4420000,85000,25,328,7,41,46.86,24.577,MediumRisk-LowWage,10.98,89666,75667,"Value Rotation: Good balance, valuable backups.",19.58,9.52,77.97,40.48
+329,Manchester United FC,Rasmus Hojlund, F , DNK ,4420000,85000,21,72,5,18,14.4,10.2952381,LowRisk-LowWage,7.5,88187,78625,"Reliable Depth: Solid contributors, good value.",58.89,80.95,69.44,40.48
+330,Manchester United FC,Tyrell Malacia, D , NLD ,3900000,75000,24,182,8,26,22.75,14.72083333,LowRisk-LowWage,8.58,78217,68565,"Reliable Depth: Solid contributors, good value.",51.75,61.9,69.58,33.33
+331,Manchester United FC,Brandon Williams, D , GBR ,3380000,65000,23,175,3,29.17,58.33,24.22717391,MediumRisk-LowWage,10.89,68539,57922,"Value Rotation: Good balance, valuable backups.",20.28,14.29,65.03,28.57
+332,Manchester United FC,Scott McTominay, M , GBR ,3120000,60000,27,328,13,32.8,25.23,17.40009259,LowRisk-LowWage,9.23,62769,54462,"Reliable Depth: Solid contributors, good value.",43.38,47.62,54.41,23.81
+333,Manchester United FC,Altay Bayindir, GK , TUR ,1820000,35000,26,276,9,30.67,30.67,18.07346154,LowRisk-LowWage,9.4,36645,31710,"Reliable Depth: Solid contributors, good value.",29.17,42.86,51.04,14.29
+334,Manchester United FC,Amad Diallo, F , ITA ,1500000,28846,21,195,4,48.75,48.75,26.55119048,MediumRisk-LowWage,11.46,30498,25541,"Value Rotation: Good balance, valuable backups.",14.44,4.76,31.11,9.52
+335,Manchester United FC,Kobbie Mainoo, M , GBR ,520000,10000,19,87,1,43.5,87,34.54605263,HighRisk-LowWage,13.4,10670,8660,"Depth Option: Consider for backup option, injury risk a major factor.",10.29,0,11.4,4.76
+336,Newcastle United FC,Bruno Guimaraes, M , BRA ,8320000,160000,26,51,3,5.67,17,8.313653846,MediumRisk-HighWage,7.02,160000,148768,High Potential (Careful Management): Maximise value with strategic management,71.32,82.61,88.97,100
+337,Newcastle United FC,Alexander Isak, F , SWE ,6240000,120000,24,282,12,40.29,23.5,18.5475,MediumRisk-HighWage,9.51,120000,108588,High Potential (Careful Management): Maximise value with strategic management,34.44,52.17,83.33,93.48
+338,Newcastle United FC,Sandro Tonali, M , ITA ,6240000,120000,24,72,12,10.29,6,6.6725,MediumRisk-HighWage,6.62,120000,112056,High Potential (Careful Management): Maximise value with strategic management,74.26,86.96,80.51,93.48
+339,Newcastle United FC,Matt Targett, D , GBR ,5200000,100000,28,578,13,52.55,44.46,27.23821429,MediumRisk-LowWage,11.63,105815,88370,"Value Rotation: Good balance, valuable backups.",14.69,21.74,84.62,86.96
+340,Newcastle United FC,Sven Botman, D , NLD ,4680000,90000,24,410,7,58.57,58.57,31.80166667,MediumRisk-LowWage,12.74,95733,78534,"Value Rotation: Good balance, valuable backups.",8.39,13.04,80.07,82.61
+341,Newcastle United FC,Joelinton, F , BRA ,4420000,85000,27,278,15,27.8,18.53,14.50472222,LowRisk-LowWage,8.53,88625,77750,"Reliable Depth: Solid contributors, good value.",50,65.22,69.44,78.26
+342,Newcastle United FC,Harvey Barnes, M , GBR ,4160000,80000,26,338,6,37.56,56.33,26.16480769,MediumRisk-LowWage,11.37,84547,70905,"Value Rotation: Good balance, valuable backups.",14.71,26.09,68.38,71.74
+343,Newcastle United FC,Joe Willock, M , GBR ,4160000,80000,24,288,8,41.14,36,21.81833333,MediumRisk-LowWage,10.31,84124,71752,"Value Rotation: Good balance, valuable backups.",30.15,39.13,68.38,71.74
+344,Newcastle United FC,Miguel Almiron, M , PRY ,3120000,60000,30,216,13,16.62,16.62,11.48333333,LowRisk-LowWage,7.79,62337,55326,"Reliable Depth: Solid contributors, good value.",61.76,78.26,54.41,63.04
+345,Newcastle United FC,Nick Pope, GK , GBR ,3120000,60000,32,418,7,27.87,59.71,25.1825,MediumRisk-LowWage,11.13,63339,53322,"Value Rotation: Good balance, valuable backups.",16.67,30.43,73.96,63.04
+346,Newcastle United FC,Dan Burn, D , GBR ,2860000,55000,32,154,6,10.27,25.67,12.26,LowRisk-LowWage,7.98,57194,50611,"Reliable Depth: Solid contributors, good value.",65.03,73.91,59.44,54.35
+347,Newcastle United FC,Emil Krafth, D , SWE ,2860000,55000,29,669,8,55.75,83.62,37.85284483,HighRisk-LowWage,14.21,58907,47185,"Depth Option: Consider for backup option, injury risk a major factor.",4.2,8.7,59.44,54.35
+348,Newcastle United FC,Tino Livramento, M , GBR ,2600000,50000,21,434,5,108.5,86.8,51.0202381,HighRisk-LowWage,17.41,54352,41295,"Depth Option: Consider for backup option, injury risk a major factor.",3.68,4.35,45.96,45.65
+349,Newcastle United FC,Sean Longstaff, M , GBR ,2600000,50000,26,227,6,25.22,37.83,18.45480769,MediumRisk-LowWage,9.49,52372,45255,"Value Rotation: Good balance, valuable backups.",38.97,56.52,45.96,45.65
+350,Newcastle United FC,Callum Wilson, F , GBR ,2400000,46154,32,534,15,35.6,35.6,21.1875,MediumRisk-LowWage,10.15,48496,41470,"Value Rotation: Good balance, valuable backups.",27.78,43.48,44.44,39.13
+351,Newcastle United FC,Ryan Fraser, F , GBR ,2173600,41800,30,2916,15,224.31,194.4,107.8775,VeryHighRisk-LowWage,31.25,48331,28738,"High-Risk Gamble: Potential upside, but cautious approach needed.",0,0,43.33,34.78
+352,Newcastle United FC,Martin Dubravka, GK , SVK ,2080000,40000,35,244,8,13.56,30.5,14.60642857,LowRisk-LowWage,8.55,41710,36580,"Reliable Depth: Solid contributors, good value.",41.67,60.87,59.38,28.26
+353,Newcastle United FC,Fabian Schar, D , CHE ,2080000,40000,32,298,15,19.87,19.87,13.3225,LowRisk-LowWage,8.24,41648,36704,"Reliable Depth: Solid contributors, good value.",61.54,69.57,37.06,28.26
+354,Newcastle United FC,Jamal Lewis, D , IRL ,2000000,38462,26,286,9,31.78,31.78,18.62846154,MediumRisk-LowWage,9.53,40294,34797,"Value Rotation: Good balance, valuable backups.",34.27,47.83,34.27,21.74
+355,Newcastle United FC,Elliot Anderson, M , GBR ,1560000,30000,21,139,2,34.75,69.5,28.20059524,MediumRisk-LowWage,11.86,31779,26442,"Value Rotation: Good balance, valuable backups.",12.5,17.39,25.74,13.04
+356,Newcastle United FC,Isaac Hayden, M , GBR ,1144000,22000,29,504,12,42,42,24.06551724,MediumRisk-LowWage,10.86,23194,19611,"Value Rotation: Good balance, valuable backups.",22.79,34.78,19.85,8.7
+357,Nottingham Forest FC,Morgan Gibbs-White, M , GBR ,4160000,80000,24,253,4,36.14,63.25,27.31416667,MediumRisk-LowWage,11.65,84660,70680,"Value Rotation: Good balance, valuable backups.",13.24,9.52,68.38,97.62
+358,Nottingham Forest FC,Callum Hudson-Odoi, F , GBR ,4160000,80000,23,353,10,58.83,35.3,26.00641304,MediumRisk-LowWage,11.33,84532,70936,"Value Rotation: Good balance, valuable backups.",15.56,14.29,66.11,97.62
+359,Nottingham Forest FC,Ibrahim Sangare, M , CIV ,3900000,75000,26,105,6,11.67,17.5,9.984807692,LowRisk-LowWage,7.43,77786,69428,"Reliable Depth: Solid contributors, good value.",65.44,52.38,64.34,90.48
+360,Nottingham Forest FC,Taiwo Awoniyi, F , NGA ,2600000,50000,26,335,5,37.22,67,28.73192308,MediumRisk-LowWage,11.99,52997,44005,"Value Rotation: Good balance, valuable backups.",11.11,0,49.44,83.33
+361,Nottingham Forest FC,Neco Williams, D , GBR ,2600000,50000,23,102,10,17,10.2,9.273913043,LowRisk-LowWage,7.26,51815,46370,"Reliable Depth: Solid contributors, good value.",77.62,57.14,51.05,83.33
+362,Nottingham Forest FC,Moussa Niakhate, D , FRA ,2340000,45000,28,237,3,21.55,79,27.98035714,MediumRisk-LowWage,11.81,47657,39686,"Value Rotation: Good balance, valuable backups.",12.59,4.76,43.71,73.81
+363,Nottingham Forest FC,Odysseas Vlachodimos, GK , GRC ,2340000,45000,30,54,4,4.15,13.5,7.465833333,LowRisk-LowWage,6.82,46534,41931,"Reliable Depth: Solid contributors, good value.",60.42,61.9,64.58,73.81
+364,Nottingham Forest FC,Ola Aina, D , GBR ,2080000,40000,27,210,8,21,26.25,14.63101852,LowRisk-LowWage,8.56,41712,36576,"Reliable Depth: Solid contributors, good value.",52.45,42.86,37.06,59.52
+365,Nottingham Forest FC,Willy Boly, D , FRA ,2080000,40000,33,389,9,24.31,43.22,20.29159091,MediumRisk-LowWage,9.94,41988,36024,"Value Rotation: Good balance, valuable backups.",30.77,23.81,37.06,59.52
+366,Nottingham Forest FC,Emmanuel Dennis, F , NGA ,2080000,40000,26,178,3,19.78,59.33,22.42365385,MediumRisk-LowWage,10.46,42092,35816,"Value Rotation: Good balance, valuable backups.",23.33,19.05,40.56,59.52
+367,Nottingham Forest FC,Matt Turner, GK , USA ,2080000,40000,29,83,2,6.92,41.5,15.03258621,LowRisk-LowWage,8.66,41732,36536,"Reliable Depth: Solid contributors, good value.",37.5,38.1,59.38,59.52
+368,Nottingham Forest FC,Nicolas Dominguez, M , ARG ,1820000,35000,25,163,7,20.38,23.29,13.5295,LowRisk-LowWage,8.29,36450,32099,"Reliable Depth: Solid contributors, good value.",54.41,47.62,31.25,42.86
+369,Nottingham Forest FC,Ryan Yates, M , GBR ,1300000,25000,26,86,2,9.56,43,15.77076923,LowRisk-LowWage,8.84,26105,22790,"Reliable Depth: Solid contributors, good value.",46.32,33.33,21.69,26.19
+370,Nottingham Forest FC,Alex Mighten, F , GBR ,180000,3462,22,79,2,15.8,39.5,16.06136364,LowRisk-LowWage,8.91,3616,3154,"Reliable Depth: Solid contributors, good value.",47.78,28.57,2.22,4.76
+371,Southhampton FC,Joe Aribo, M , NGA ,3640000,70000,27,124,4,12.4,31,13.60925926,LowRisk-LowWage,8.31,72908,64183,"Reliable Depth: Solid contributors, good value.",53.68,41.18,59.93,100
+372,Southhampton FC,Adam Armstrong, F , GBR ,2860000,55000,27,26,2,2.6,13,6.62962963,LowRisk-LowWage,6.61,56817,51365,"Reliable Depth: Solid contributors, good value.",68.89,58.82,55,88.24
+373,Southhampton FC,Alex McCarthy, GK , GBR ,2600000,50000,34,647,7,38.06,92.43,36.10485294,HighRisk-LowWage,13.78,53445,43110,"Depth Option: Consider for backup option, injury risk a major factor.",4.17,17.65,67.71,82.35
+374,Southhampton FC,Jack Stephens, D , GBR ,2340000,45000,30,110,3,8.46,36.67,14.3225,LowRisk-LowWage,8.48,46908,41184,"Reliable Depth: Solid contributors, good value.",55.24,35.29,43.71,76.47
+375,Southhampton FC,Kamaldeen Sulemana, F , GHA ,2080000,40000,22,158,4,31.6,39.5,20.04772727,MediumRisk-LowWage,9.88,41976,36048,"Value Rotation: Good balance, valuable backups.",30,23.53,40.56,70.59
+376,Southhampton FC,Will Smallbone, M , IRL ,1300000,25000,24,345,4,49.29,86.25,36.35166667,HighRisk-LowWage,13.84,26730,21540,"Depth Option: Consider for backup option, injury risk a major factor.",8.09,11.76,21.69,61.76
+377,Southhampton FC,Kyle Walker-Peters, D , GBR ,1200000,23077,27,147,7,14.7,21,11.7287037,LowRisk-LowWage,7.85,23982,21266,"Reliable Depth: Solid contributors, good value.",70.63,52.94,17.48,52.94
+378,Southhampton FC,Gavin Bazunu, GK , IRL ,1040000,20000,22,260,1,52,260,80.21818182,VeryHighRisk-LowWage,24.52,22452,15096,"High-Risk Gamble: Potential upside, but cautious approach needed.",0,0,33.33,44.12
+379,Southhampton FC,Ross Stewart, F , SCO ,1040000,20000,27,589,4,58.9,147.25,54.29675926,HighRisk-LowWage,18.21,21821,16358,"Depth Option: Consider for backup option, injury risk a major factor.",2.22,5.88,22.22,44.12
+380,Southhampton FC,Ryan Manning, D , IRL ,780000,15000,28,109,4,9.91,27.25,12.14714286,LowRisk-LowWage,7.96,15597,13806,"Reliable Depth: Solid contributors, good value.",66.43,47.06,12.94,29.41
+381,Southhampton FC,James Bree, D , GBR ,520000,10000,26,43,1,4.78,43,14.56038462,LowRisk-LowWage,8.54,10426,9147,"Reliable Depth: Solid contributors, good value.",53.85,29.41,9.44,17.65
+382,Tottenham Hotspurs FC,Timo Werner, F , DEU ,14144000,272000,28,210,14,19.09,15,11.5225,LowRisk-HighWage,7.8,272000,250784,Core Star: Build your team around them.,54.44,72.41,97.78,100
+383,Tottenham Hotspurs FC,Heung-Min Son, F , KOR ,9880000,190000,31,378,13,27,29.08,17.28774194,MediumRisk-HighWage,9.21,190000,172501,High Potential (Careful Management): Maximise value with strategic management,38.89,34.48,91.11,96.55
+384,Tottenham Hotspurs FC,James Maddison, M ,GBR,8840000,170000,27,301,15,30.1,20.07,15.46472222,MediumRisk-HighWage,8.76,170000,155108,High Potential (Careful Management): Maximise value with strategic management,47.79,51.72,89.71,93.1
+385,Tottenham Hotspurs FC,Cristian Romero, D , ARG ,8580000,165000,26,223,12,24.78,18.58,13.62461538,MediumRisk-HighWage,8.31,165000,151289,High Potential (Careful Management): Maximise value with strategic management,59.44,62.07,93.01,89.66
+386,Tottenham Hotspurs FC,Dejan Kulusevski, F , SWE ,5720000,110000,24,78,6,11.14,13,8.535,MediumRisk-HighWage,7.08,110000,102212,High Potential (Careful Management): Maximise value with strategic management,64.44,75.86,81.11,86.21
+387,Tottenham Hotspurs FC,Pierre-Emile Hojbjerg, M , DNK ,5300000,101923,28,98,10,8.91,9.8,7.620357143,LowRisk-LowWage,6.85,105413,94942,"Reliable Depth: Solid contributors, good value.",72.79,82.76,77.94,82.76
+388,Tottenham Hotspurs FC,Richarlison, F , BRA ,4680000,90000,27,327,15,32.7,21.8,16.54722222,LowRisk-LowWage,9.03,94063,81873,"Reliable Depth: Solid contributors, good value.",43.33,41.38,72.78,79.31
+389,Tottenham Hotspurs FC,Pedro Porro, D , ESP ,4420000,85000,24,239,12,34.14,19.92,16.115,LowRisk-LowWage,8.92,88791,77418,"Reliable Depth: Solid contributors, good value.",44.06,48.28,77.97,75.86
+390,Tottenham Hotspurs FC,Ben Davies, D , GBR ,4160000,80000,31,379,14,27.07,27.07,16.81564516,LowRisk-LowWage,9.09,83636,72728,"Reliable Depth: Solid contributors, good value.",40.56,37.93,74.48,72.41
+391,Tottenham Hotspurs FC,Rodrigo Bentancur, M , URY ,3900000,75000,26,424,10,47.11,42.4,25.13134615,MediumRisk-LowWage,11.11,79166,66668,"Value Rotation: Good balance, valuable backups.",19.12,13.79,64.34,63.79
+392,Tottenham Hotspurs FC,Fraser Forster, GK , GBR ,3900000,75000,36,369,4,19.42,92.25,31.56194444,MediumRisk-LowWage,12.68,79755,65490,"Value Rotation: Good balance, valuable backups.",8.33,3.45,80.21,63.79
+393,Tottenham Hotspurs FC,Destiny Udogie, D , NGA ,3900000,75000,21,163,11,40.75,14.82,16.20202381,LowRisk-LowWage,8.94,78352,68295,"Reliable Depth: Solid contributors, good value.",42.66,44.83,69.58,63.79
+394,Tottenham Hotspurs FC,Guglielmo Vicario, GK , ITA ,3900000,75000,27,100,3,10,33.33,13.57694444,LowRisk-LowWage,8.3,78112,68775,"Reliable Depth: Solid contributors, good value.",43.75,65.52,80.21,63.79
+395,Tottenham Hotspurs FC,Brennan Johnson, M , GBR ,3640000,70000,23,26,2,4.33,13,6.667282609,LowRisk-LowWage,6.62,72317,65366,"Reliable Depth: Solid contributors, good value.",75,86.21,59.93,51.72
+396,Tottenham Hotspurs FC,Giovani Lo Celso, M , ARG ,3640000,70000,28,372,15,33.82,24.8,17.66928571,LowRisk-LowWage,9.3,73255,63490,"Reliable Depth: Solid contributors, good value.",41.91,27.59,59.93,51.72
+397,Tottenham Hotspurs FC,Pape Sarr, M , SEN ,3640000,70000,21,22,2,5.5,11,6.263095238,LowRisk-LowWage,6.52,72281,65437,"Reliable Depth: Solid contributors, good value.",75.74,89.66,59.93,51.72
+398,Tottenham Hotspurs FC,Manor Solomon, F , PRT ,3120000,60000,24,424,9,60.57,47.11,29.47,MediumRisk-LowWage,12.17,63651,52698,"Value Rotation: Good balance, valuable backups.",10,6.9,57.78,44.83
+399,Tottenham Hotspurs FC,Yves Bissouma, M , CIV ,2860000,55000,27,229,4,22.9,57.25,22.79675926,MediumRisk-LowWage,10.55,57901,49198,"Value Rotation: Good balance, valuable backups.",26.47,17.24,51.1,39.66
+400,Tottenham Hotspurs FC,Ryan Sessegnon, M , GBR ,2860000,55000,24,706,11,100.86,64.18,43.84333333,HighRisk-LowWage,15.67,59309,46382,"Depth Option: Consider for backup option, injury risk a major factor.",6.62,0,51.1,39.66
+401,Tottenham Hotspurs FC,Sergio Reguilon, D , ESP ,2756000,53000,27,242,10,24.2,24.2,14.94814815,LowRisk-LowWage,8.64,55289,48421,"Reliable Depth: Solid contributors, good value.",51.05,58.62,57.34,34.48
+402,Tottenham Hotspurs FC,Micky van de Ven, D , NLD ,2600000,50000,23,254,8,42.33,31.75,20.95913043,MediumRisk-LowWage,10.1,52525,44950,"Value Rotation: Good balance, valuable backups.",28.67,24.14,51.05,31.03
+403,Tottenham Hotspurs FC,Emerson Royal, D , BRA ,2170000,41731,25,37,2,4.62,18.5,8.312,LowRisk-LowWage,7.02,43195,38802,"Reliable Depth: Solid contributors, good value.",80.42,79.31,40.56,27.59
+404,Tottenham Hotspurs FC,Bryan Gil, F , ESP ,2080000,40000,23,132,6,22,22,13.40434783,LowRisk-LowWage,8.26,41652,36696,"Reliable Depth: Solid contributors, good value.",51.11,68.97,40.56,22.41
+405,Tottenham Hotspurs FC,Oliver Skipp, M , GBR ,2080000,40000,23,221,5,36.83,44.2,22.64445652,MediumRisk-LowWage,10.51,42102,35796,"Value Rotation: Good balance, valuable backups.",27.94,20.69,35.66,22.41
+406,Tottenham Hotspurs FC,Japhet Tanganga, D , GBR ,1300000,25000,25,371,7,46.38,53,27.457,MediumRisk-LowWage,11.68,26460,22080,"Value Rotation: Good balance, valuable backups.",13.99,10.34,19.58,17.24
+407,Tottenham Hotspurs FC,Ashley Phillips, D , GBR ,780000,15000,18,27,1,27,27,15.32222222,LowRisk-LowWage,8.73,15654,13691,"Reliable Depth: Solid contributors, good value.",47.55,55.17,12.94,13.79
+408,Tottenham Hotspurs FC,Joe Rodon, D , GBR ,500000,9615,26,189,5,21,37.8,17.37692308,LowRisk-LowWage,9.23,10058,8728,"Reliable Depth: Solid contributors, good value.",38.46,31.03,7.69,10.34
+409,West Ham United FC,Lucas Paqueta, M , BRA ,7800000,150000,26,101,6,11.22,16.83,9.704807692,MediumRisk-HighWage,7.36,150000,138960,High Potential (Careful Management): Maximise value with strategic management,66.91,70.59,85.66,100
+410,West Ham United FC,Danny Ings, F , GBR ,6500000,125000,31,721,12,51.5,60.08,31.14983871,MediumRisk-HighWage,12.58,125000,109275,High Potential (Careful Management): Maximise value with strategic management,7.78,0,85.56,91.18
+411,West Ham United FC,Kurt Zouma, D , FRA ,6500000,125000,29,640,15,53.33,42.67,27.10689655,MediumRisk-HighWage,11.6,125000,110500,High Potential (Careful Management): Maximise value with strategic management,15.38,5.88,90.21,91.18
+412,West Ham United FC,Alphonse Areola, GK , FRA ,6240000,120000,31,34,3,2.43,11.33,6.578709677,MediumRisk-HighWage,6.6,120000,112080,High Potential (Careful Management): Maximise value with strategic management,62.5,76.47,94.79,79.41
+413,West Ham United FC,Jarrod Bowen, F , GBR ,6240000,120000,27,14,2,1.4,7,4.82962963,MediumRisk-HighWage,0,120000,120000,High Potential (Careful Management): Maximise value with strategic management,72.22,88.24,83.33,79.41
+414,West Ham United FC,James Ward-Prowse, M , GBR ,5980000,115000,29,95,4,7.92,23.75,10.87267241,MediumRisk-HighWage,7.65,115000,106203,High Potential (Careful Management): Maximise value with strategic management,63.24,64.71,79.41,70.59
+415,West Ham United FC,Edson Alvarez, M , MEX ,5200000,100000,26,9,3,1,3,3.646153846,LowRisk-LowWage,0,100000,100000,"Reliable Depth: Solid contributors, good value.",82.35,94.12,75.37,64.71
+416,West Ham United FC,Emerson Palmieri, D , ITA ,4940000,95000,29,289,8,24.08,36.12,18.06034483,LowRisk-LowWage,9.39,99460,86080,"Reliable Depth: Solid contributors, good value.",36.36,35.29,81.82,58.82
+417,West Ham United FC,Mohammed Kudus, M , GHA ,4680000,90000,23,303,8,50.5,37.88,24.53413043,MediumRisk-LowWage,10.97,94936,80127,"Value Rotation: Good balance, valuable backups.",19.85,11.76,72.06,50
+418,West Ham United FC,Tomas Soucek, M , CZE ,4680000,90000,29,14,2,1.17,7,4.970086207,LowRisk-LowWage,0,90000,90000,"Reliable Depth: Solid contributors, good value.",80.88,82.35,72.06,50
+419,West Ham United FC,Michail Antonio, M , GBR ,4420000,85000,34,653,15,38.41,43.53,24.06147059,MediumRisk-LowWage,10.85,89611,75778,"Value Rotation: Good balance, valuable backups.",23.53,17.65,70.59,41.18
+420,West Ham United FC,Maxwel Cornet, D , CIV ,3380000,65000,27,249,12,24.9,20.75,14.29027778,LowRisk-LowWage,8.48,67756,59488,"Reliable Depth: Solid contributors, good value.",55.94,58.82,65.03,32.35
+421,West Ham United FC,Lukasz Fabianski, GK , POL ,3380000,65000,39,554,14,25.18,39.57,20.23108974,MediumRisk-LowWage,9.92,68224,58552,"Value Rotation: Good balance, valuable backups.",25,23.53,77.08,32.35
+422,West Ham United FC,Nayef Aguerd, D , MAR ,2600000,50000,28,302,11,27.45,27.45,16.68214286,LowRisk-LowWage,9.06,52265,45470,"Reliable Depth: Solid contributors, good value.",41.26,47.06,51.05,20.59
+423,West Ham United FC,Konstantinos Mavropanos, D , GRC ,2600000,50000,26,389,15,43.22,25.93,20.11826923,MediumRisk-LowWage,9.89,52472,45055,"Value Rotation: Good balance, valuable backups.",31.47,29.41,51.05,20.59
+424,West Ham United FC,Vladimir Coufal, D , CZE ,1820000,35000,31,168,5,12,33.6,14.56451613,LowRisk-LowWage,8.54,36494,32012,"Reliable Depth: Solid contributors, good value.",53.15,52.94,31.12,11.76
+425,West Ham United FC,Flynn Downes, M , GBR ,1300000,25000,25,98,2,12.25,49,17.8445,LowRisk-LowWage,9.34,26167,22665,"Reliable Depth: Solid contributors, good value.",40.44,41.18,21.69,5.88
+426,Wolverhampton Wanderers FC,Pablo Sarabia, F , ESP ,4680000,90000,32,93,9,6.2,10.33,7.445,LowRisk-LowWage,6.81,93064,83871,"Reliable Depth: Solid contributors, good value.",66.67,60,72.78,100
+427,Wolverhampton Wanderers FC,Nelson Semedo, D , PRT ,4160000,80000,30,282,7,21.69,40.29,18.58833333,MediumRisk-LowWage,9.52,83808,72384,"Value Rotation: Good balance, valuable backups.",34.97,10,74.48,95
+428,Wolverhampton Wanderers FC,Matheus Cunha, F , BRA ,3120000,60000,25,150,9,18.75,16.67,11.499,LowRisk-LowWage,7.8,62340,55320,"Reliable Depth: Solid contributors, good value.",55.56,50,57.78,90
+429,Wolverhampton Wanderers FC,Matt Doherty, D , IRL ,2600000,50000,32,194,10,12.93,19.4,11.4075,LowRisk-LowWage,7.78,51945,46110,"Reliable Depth: Solid contributors, good value.",73.43,55,51.05,77.5
+430,Wolverhampton Wanderers FC,Pedro Neto, F , PRT ,2600000,50000,24,623,9,89,69.22,42.105,HighRisk-LowWage,15.24,53810,42380,"Depth Option: Consider for backup option, injury risk a major factor.",4.44,5,49.44,77.5
+431,Wolverhampton Wanderers FC,Craig Dawson, D , GBR ,2340000,45000,34,85,2,5,42.5,15.29852941,LowRisk-LowWage,8.72,46962,41076,"Reliable Depth: Solid contributors, good value.",48.25,30,43.71,67.5
+432,Wolverhampton Wanderers FC,Mario Lemina, M , GAB ,2340000,45000,30,304,15,23.38,20.27,14.1125,LowRisk-LowWage,8.43,46896,41207,"Reliable Depth: Solid contributors, good value.",52.21,35,39.34,67.5
+433,Wolverhampton Wanderers FC,Jean-Ricner Bellegarde, M , FRA ,1820000,35000,25,113,4,14.12,28.25,13.1565,LowRisk-LowWage,8.2,36435,32130,"Reliable Depth: Solid contributors, good value.",57.35,45,31.25,55
+434,Wolverhampton Wanderers FC,Santiago Bueno, D , ITA ,1560000,30000,25,213,7,26.62,30.43,16.8745,LowRisk-LowWage,9.11,31366,27267,"Reliable Depth: Solid contributors, good value.",39.86,20,25.17,47.5
+435,Wolverhampton Wanderers FC,Jose Sa, GK , PRT ,1490000,28654,31,151,3,10.79,50.33,18.41870968,MediumRisk-LowWage,9.48,30012,25938,"Value Rotation: Good balance, valuable backups.",27.08,15,41.67,40
+436,Wolverhampton Wanderers FC,Max Kilman, D , GBR ,780000,15000,27,39,1,3.9,39,13.43981481,LowRisk-LowWage,8.27,15620,13760,"Reliable Depth: Solid contributors, good value.",60.14,40,12.94,30
+437,Wolverhampton Wanderers FC,Rayan Ait-Nouri, D , FRA ,520000,10000,23,210,12,35,17.5,15.63369565,LowRisk-LowWage,8.8,10440,9120,"Reliable Depth: Solid contributors, good value.",44.76,25,9.44,17.5
+438,Wolverhampton Wanderers FC,Daniel Bentley, GK , GBR ,520000,10000,30,4,1,0.31,4,4.090833333,LowRisk-LowWage,0,10000,10000,"Reliable Depth: Solid contributors, good value.",68.75,70,21.88,17.5
+439,Wolverhampton Wanderers FC,Hugo Bueno, D , ESP ,520000,10000,21,13,1,3.25,13,6.181547619,LowRisk-LowWage,6.5,10325,9350,"Reliable Depth: Solid contributors, good value.",84.62,65,9.44,17.5
+440,Wolverhampton Wanderers FC,Joe Hodge, M , IRL ,260000,5000,21,399,2,99.75,199.5,76.95059524,VeryHighRisk-LowWage,23.72,5593,3814,"High-Risk Gamble: Potential upside, but cautious approach needed.",0,0,4.41,5
