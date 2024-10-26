@@ -1,0 +1,644 @@
+driverId,raceId,milliseconds,year,name,driverRef,constructorId,constructorRef,rank
+830,1098,98890.1052631579,2023,Bahrain Grand Prix,max_verstappen,9.0,red_bull,1.0
+815,1098,99100.40350877192,2023,Bahrain Grand Prix,perez,9.0,red_bull,2.0
+4,1098,99567.94736842105,2023,Bahrain Grand Prix,alonso,117.0,aston_martin,3.0
+844,1098,99644.05128205128,2023,Bahrain Grand Prix,leclerc,6.0,ferrari,4.0
+832,1098,99733.12280701754,2023,Bahrain Grand Prix,sainz,6.0,ferrari,5.0
+1,1098,99784.43859649122,2023,Bahrain Grand Prix,hamilton,131.0,mercedes,6.0
+840,1098,99846.28070175438,2023,Bahrain Grand Prix,stroll,117.0,aston_martin,7.0
+847,1098,99870.33333333333,2023,Bahrain Grand Prix,russell,131.0,mercedes,8.0
+822,1098,100164.61403508772,2023,Bahrain Grand Prix,bottas,51.0,alfa,9.0
+842,1098,100184.01754385965,2023,Bahrain Grand Prix,gasly,214.0,alpine,10.0
+848,1098,100465.08771929824,2023,Bahrain Grand Prix,albon,3.0,williams,11.0
+852,1098,100484.31578947368,2023,Bahrain Grand Prix,tsunoda,213.0,alphatauri,12.0
+858,1098,100676.28571428571,2023,Bahrain Grand Prix,sargeant,3.0,williams,13.0
+825,1098,100955.23214285714,2023,Bahrain Grand Prix,kevin_magnussen,210.0,haas,14.0
+856,1098,101058.19642857143,2023,Bahrain Grand Prix,de_vries,213.0,alphatauri,15.0
+807,1098,101082.98214285714,2023,Bahrain Grand Prix,hulkenberg,210.0,haas,16.0
+855,1098,101364.01785714286,2023,Bahrain Grand Prix,zhou,51.0,alfa,17.0
+846,1098,102606.76363636364,2023,Bahrain Grand Prix,norris,1.0,mclaren,18.0
+839,1098,102916.24390243902,2023,Bahrain Grand Prix,ocon,214.0,alpine,19.0
+857,1098,103275.76923076923,2023,Bahrain Grand Prix,piastri,1.0,mclaren,20.0
+840,1099,97324.0,2023,Saudi Arabian Grand Prix,stroll,117.0,aston_martin,1.0
+815,1099,97497.88,2023,Saudi Arabian Grand Prix,perez,9.0,red_bull,2.0
+830,1099,97604.98,2023,Saudi Arabian Grand Prix,max_verstappen,9.0,red_bull,3.0
+4,1099,97912.44,2023,Saudi Arabian Grand Prix,alonso,117.0,aston_martin,4.0
+847,1099,98015.2,2023,Saudi Arabian Grand Prix,russell,131.0,mercedes,5.0
+1,1099,98119.18,2023,Saudi Arabian Grand Prix,hamilton,131.0,mercedes,6.0
+832,1099,98215.4,2023,Saudi Arabian Grand Prix,sainz,6.0,ferrari,7.0
+844,1099,98361.12,2023,Saudi Arabian Grand Prix,leclerc,6.0,ferrari,8.0
+839,1099,98554.52,2023,Saudi Arabian Grand Prix,ocon,214.0,alpine,9.0
+842,1099,98592.82,2023,Saudi Arabian Grand Prix,gasly,214.0,alpine,10.0
+825,1099,98794.4,2023,Saudi Arabian Grand Prix,kevin_magnussen,210.0,haas,11.0
+852,1099,98847.76,2023,Saudi Arabian Grand Prix,tsunoda,213.0,alphatauri,12.0
+807,1099,98909.64,2023,Saudi Arabian Grand Prix,hulkenberg,210.0,haas,13.0
+855,1099,99019.08,2023,Saudi Arabian Grand Prix,zhou,51.0,alfa,14.0
+856,1099,99047.44,2023,Saudi Arabian Grand Prix,de_vries,213.0,alphatauri,15.0
+857,1099,99198.3,2023,Saudi Arabian Grand Prix,piastri,1.0,mclaren,16.0
+858,1099,99223.74,2023,Saudi Arabian Grand Prix,sargeant,3.0,williams,17.0
+846,1099,99226.78,2023,Saudi Arabian Grand Prix,norris,1.0,mclaren,18.0
+822,1099,100091.38775510204,2023,Saudi Arabian Grand Prix,bottas,51.0,alfa,19.0
+848,1099,104664.66666666667,2023,Saudi Arabian Grand Prix,albon,3.0,williams,20.0
+848,1100,102973.5,2023,Australian Grand Prix,albon,3.0,williams,1.0
+825,1100,108357.88461538461,2023,Australian Grand Prix,kevin_magnussen,210.0,haas,2.0
+842,1100,125060.83928571429,2023,Australian Grand Prix,gasly,214.0,alpine,3.0
+839,1100,125085.35714285714,2023,Australian Grand Prix,ocon,214.0,alpine,4.0
+856,1100,125102.01785714286,2023,Australian Grand Prix,de_vries,213.0,alphatauri,5.0
+858,1100,125105.89285714286,2023,Australian Grand Prix,sargeant,3.0,williams,6.0
+830,1100,157902.94827586206,2023,Australian Grand Prix,max_verstappen,9.0,red_bull,7.0
+1,1100,157906.0344827586,2023,Australian Grand Prix,hamilton,131.0,mercedes,8.0
+4,1100,157916.2068965517,2023,Australian Grand Prix,alonso,117.0,aston_martin,9.0
+832,1100,157930.43103448275,2023,Australian Grand Prix,sainz,6.0,ferrari,10.0
+840,1100,157956.08620689655,2023,Australian Grand Prix,stroll,117.0,aston_martin,11.0
+815,1100,157960.1896551724,2023,Australian Grand Prix,perez,9.0,red_bull,12.0
+846,1100,157966.75862068965,2023,Australian Grand Prix,norris,1.0,mclaren,13.0
+807,1100,157988.10344827586,2023,Australian Grand Prix,hulkenberg,210.0,haas,14.0
+857,1100,157995.74137931035,2023,Australian Grand Prix,piastri,1.0,mclaren,15.0
+855,1100,158001.44827586206,2023,Australian Grand Prix,zhou,51.0,alfa,16.0
+852,1100,158007.2931034483,2023,Australian Grand Prix,tsunoda,213.0,alphatauri,17.0
+822,1100,158015.24137931035,2023,Australian Grand Prix,bottas,51.0,alfa,18.0
+847,1100,158630.0,2023,Australian Grand Prix,russell,131.0,mercedes,19.0
+815,1101,109067.37254901961,2023,Azerbaijan Grand Prix,perez,9.0,red_bull,1.0
+830,1101,109109.27450980392,2023,Azerbaijan Grand Prix,max_verstappen,9.0,red_bull,2.0
+844,1101,109483.39215686274,2023,Azerbaijan Grand Prix,leclerc,6.0,ferrari,3.0
+4,1101,109499.2156862745,2023,Azerbaijan Grand Prix,alonso,117.0,aston_martin,4.0
+832,1101,109959.35294117648,2023,Azerbaijan Grand Prix,sainz,6.0,ferrari,5.0
+1,1101,109972.17647058824,2023,Azerbaijan Grand Prix,hamilton,131.0,mercedes,6.0
+840,1101,110079.4705882353,2023,Azerbaijan Grand Prix,stroll,117.0,aston_martin,7.0
+847,1101,110523.05882352941,2023,Azerbaijan Grand Prix,russell,131.0,mercedes,8.0
+856,1101,110627.0,2023,Azerbaijan Grand Prix,de_vries,213.0,alphatauri,9.0
+846,1101,110643.37254901961,2023,Azerbaijan Grand Prix,norris,1.0,mclaren,10.0
+852,1101,110711.72549019608,2023,Azerbaijan Grand Prix,tsunoda,213.0,alphatauri,11.0
+857,1101,110763.4705882353,2023,Azerbaijan Grand Prix,piastri,1.0,mclaren,12.0
+848,1101,110805.07843137255,2023,Azerbaijan Grand Prix,albon,3.0,williams,13.0
+825,1101,110826.76470588235,2023,Azerbaijan Grand Prix,kevin_magnussen,210.0,haas,14.0
+842,1101,110858.19607843137,2023,Azerbaijan Grand Prix,gasly,214.0,alpine,15.0
+839,1101,110984.90196078431,2023,Azerbaijan Grand Prix,ocon,214.0,alpine,16.0
+858,1101,111046.64705882352,2023,Azerbaijan Grand Prix,sargeant,3.0,williams,17.0
+807,1101,111447.46,2023,Azerbaijan Grand Prix,hulkenberg,210.0,haas,18.0
+822,1101,111630.68,2023,Azerbaijan Grand Prix,bottas,51.0,alfa,19.0
+855,1101,112844.61111111111,2023,Azerbaijan Grand Prix,zhou,51.0,alfa,20.0
+830,1102,92249.84210526316,2023,Miami Grand Prix,max_verstappen,9.0,red_bull,1.0
+815,1102,92344.29824561403,2023,Miami Grand Prix,perez,9.0,red_bull,2.0
+4,1102,92711.33333333333,2023,Miami Grand Prix,alonso,117.0,aston_martin,3.0
+847,1102,92832.80701754386,2023,Miami Grand Prix,russell,131.0,mercedes,4.0
+832,1102,92907.9298245614,2023,Miami Grand Prix,sainz,6.0,ferrari,5.0
+1,1102,93148.94736842105,2023,Miami Grand Prix,hamilton,131.0,mercedes,6.0
+844,1102,93179.45614035087,2023,Miami Grand Prix,leclerc,6.0,ferrari,7.0
+842,1102,93226.50877192983,2023,Miami Grand Prix,gasly,214.0,alpine,8.0
+839,1102,93269.54385964913,2023,Miami Grand Prix,ocon,214.0,alpine,9.0
+825,1102,93354.14035087719,2023,Miami Grand Prix,kevin_magnussen,210.0,haas,10.0
+852,1102,93378.0701754386,2023,Miami Grand Prix,tsunoda,213.0,alphatauri,11.0
+840,1102,93385.87719298246,2023,Miami Grand Prix,stroll,117.0,aston_martin,12.0
+822,1102,93506.63157894737,2023,Miami Grand Prix,bottas,51.0,alfa,13.0
+848,1102,93528.1052631579,2023,Miami Grand Prix,albon,3.0,williams,14.0
+807,1102,93564.75438596492,2023,Miami Grand Prix,hulkenberg,210.0,haas,15.0
+855,1102,93625.98245614035,2023,Miami Grand Prix,zhou,51.0,alfa,16.0
+846,1102,93788.73684210527,2023,Miami Grand Prix,norris,1.0,mclaren,17.0
+856,1102,93810.35087719298,2023,Miami Grand Prix,de_vries,213.0,alphatauri,18.0
+857,1102,94263.41071428571,2023,Miami Grand Prix,piastri,1.0,mclaren,19.0
+858,1102,94511.23214285714,2023,Miami Grand Prix,sargeant,3.0,williams,20.0
+840,1104,80782.47169811321,2023,Monaco Grand Prix,stroll,117.0,aston_martin,1.0
+830,1104,83743.33333333333,2023,Monaco Grand Prix,max_verstappen,9.0,red_bull,2.0
+4,1104,84101.29487179487,2023,Monaco Grand Prix,alonso,117.0,aston_martin,3.0
+839,1104,84217.56410256411,2023,Monaco Grand Prix,ocon,214.0,alpine,4.0
+1,1104,84244.1282051282,2023,Monaco Grand Prix,hamilton,131.0,mercedes,5.0
+847,1104,84400.82051282052,2023,Monaco Grand Prix,russell,131.0,mercedes,6.0
+844,1104,84536.79487179487,2023,Monaco Grand Prix,leclerc,6.0,ferrari,7.0
+842,1104,84542.84615384616,2023,Monaco Grand Prix,gasly,214.0,alpine,8.0
+832,1104,84556.03846153847,2023,Monaco Grand Prix,sainz,6.0,ferrari,9.0
+846,1104,84883.64935064936,2023,Monaco Grand Prix,norris,1.0,mclaren,10.0
+857,1104,85012.1948051948,2023,Monaco Grand Prix,piastri,1.0,mclaren,11.0
+822,1104,85207.05194805194,2023,Monaco Grand Prix,bottas,51.0,alfa,12.0
+856,1104,85575.28571428571,2023,Monaco Grand Prix,de_vries,213.0,alphatauri,13.0
+855,1104,85764.05194805194,2023,Monaco Grand Prix,zhou,51.0,alfa,14.0
+848,1104,85859.61038961039,2023,Monaco Grand Prix,albon,3.0,williams,15.0
+852,1104,86046.38157894737,2023,Monaco Grand Prix,tsunoda,213.0,alphatauri,16.0
+807,1104,86585.34210526316,2023,Monaco Grand Prix,hulkenberg,210.0,haas,17.0
+815,1104,86592.15789473684,2023,Monaco Grand Prix,perez,9.0,red_bull,18.0
+858,1104,86907.40789473684,2023,Monaco Grand Prix,sargeant,3.0,williams,19.0
+825,1104,87954.27142857143,2023,Monaco Grand Prix,kevin_magnussen,210.0,haas,20.0
+830,1105,79968.78787878787,2023,Spanish Grand Prix,max_verstappen,9.0,red_bull,1.0
+1,1105,80333.78787878787,2023,Spanish Grand Prix,hamilton,131.0,mercedes,2.0
+847,1105,80459.5303030303,2023,Spanish Grand Prix,russell,131.0,mercedes,3.0
+815,1105,80511.39393939394,2023,Spanish Grand Prix,perez,9.0,red_bull,4.0
+832,1105,80661.18181818182,2023,Spanish Grand Prix,sainz,6.0,ferrari,5.0
+840,1105,80928.18181818182,2023,Spanish Grand Prix,stroll,117.0,aston_martin,6.0
+4,1105,80940.40909090909,2023,Spanish Grand Prix,alonso,117.0,aston_martin,7.0
+839,1105,81017.90909090909,2023,Spanish Grand Prix,ocon,214.0,alpine,8.0
+852,1105,81035.69696969698,2023,Spanish Grand Prix,tsunoda,213.0,alphatauri,9.0
+855,1105,81057.84848484848,2023,Spanish Grand Prix,zhou,51.0,alfa,10.0
+842,1105,81082.87878787878,2023,Spanish Grand Prix,gasly,214.0,alpine,11.0
+844,1105,81096.34848484848,2023,Spanish Grand Prix,leclerc,6.0,ferrari,12.0
+857,1105,81264.84615384616,2023,Spanish Grand Prix,piastri,1.0,mclaren,13.0
+856,1105,81281.03076923077,2023,Spanish Grand Prix,de_vries,213.0,alphatauri,14.0
+807,1105,81465.18461538461,2023,Spanish Grand Prix,hulkenberg,210.0,haas,15.0
+848,1105,81625.35384615384,2023,Spanish Grand Prix,albon,3.0,williams,16.0
+846,1105,81666.61538461539,2023,Spanish Grand Prix,norris,1.0,mclaren,17.0
+825,1105,81784.92307692308,2023,Spanish Grand Prix,kevin_magnussen,210.0,haas,18.0
+822,1105,81967.43076923076,2023,Spanish Grand Prix,bottas,51.0,alfa,19.0
+858,1105,81994.10769230769,2023,Spanish Grand Prix,sargeant,3.0,williams,20.0
+830,1106,80547.82857142857,2023,Canadian Grand Prix,max_verstappen,9.0,red_bull,1.0
+4,1106,80684.54285714286,2023,Canadian Grand Prix,alonso,117.0,aston_martin,2.0
+1,1106,80750.22857142857,2023,Canadian Grand Prix,hamilton,131.0,mercedes,3.0
+844,1106,80814.22857142857,2023,Canadian Grand Prix,leclerc,6.0,ferrari,4.0
+832,1106,80855.54285714286,2023,Canadian Grand Prix,sainz,6.0,ferrari,5.0
+815,1106,81276.8,2023,Canadian Grand Prix,perez,9.0,red_bull,6.0
+848,1106,81416.58571428571,2023,Canadian Grand Prix,albon,3.0,williams,7.0
+839,1106,81429.14285714286,2023,Canadian Grand Prix,ocon,214.0,alpine,8.0
+846,1106,81453.0142857143,2023,Canadian Grand Prix,norris,1.0,mclaren,9.0
+840,1106,81467.85714285714,2023,Canadian Grand Prix,stroll,117.0,aston_martin,10.0
+822,1106,81468.28571428571,2023,Canadian Grand Prix,bottas,51.0,alfa,11.0
+857,1106,81477.84285714285,2023,Canadian Grand Prix,piastri,1.0,mclaren,12.0
+842,1106,81479.95714285714,2023,Canadian Grand Prix,gasly,214.0,alpine,13.0
+852,1106,81596.72857142857,2023,Canadian Grand Prix,tsunoda,213.0,alphatauri,14.0
+858,1106,81678.66666666667,2023,Canadian Grand Prix,sargeant,3.0,williams,15.0
+807,1106,81960.73913043478,2023,Canadian Grand Prix,hulkenberg,210.0,haas,16.0
+855,1106,81967.02898550725,2023,Canadian Grand Prix,zhou,51.0,alfa,17.0
+825,1106,82733.43478260869,2023,Canadian Grand Prix,kevin_magnussen,210.0,haas,18.0
+847,1106,82788.64150943396,2023,Canadian Grand Prix,russell,131.0,mercedes,19.0
+856,1106,82801.66666666667,2023,Canadian Grand Prix,de_vries,213.0,alphatauri,20.0
+830,1107,72304.32394366198,2023,Austrian Grand Prix,max_verstappen,9.0,red_bull,1.0
+844,1107,72376.92957746479,2023,Austrian Grand Prix,leclerc,6.0,ferrari,2.0
+815,1107,72546.40845070423,2023,Austrian Grand Prix,perez,9.0,red_bull,3.0
+832,1107,72605.40845070423,2023,Austrian Grand Prix,sainz,6.0,ferrari,4.0
+846,1107,72675.12676056338,2023,Austrian Grand Prix,norris,1.0,mclaren,5.0
+4,1107,72731.32394366198,2023,Austrian Grand Prix,alonso,117.0,aston_martin,6.0
+1,1107,72856.38028169014,2023,Austrian Grand Prix,hamilton,131.0,mercedes,7.0
+847,1107,72986.05633802817,2023,Austrian Grand Prix,russell,131.0,mercedes,8.0
+842,1107,73116.5352112676,2023,Austrian Grand Prix,gasly,214.0,alpine,9.0
+840,1107,73135.91549295775,2023,Austrian Grand Prix,stroll,117.0,aston_martin,10.0
+848,1107,73286.95774647887,2023,Austrian Grand Prix,albon,3.0,williams,11.0
+839,1107,73510.67142857143,2023,Austrian Grand Prix,ocon,214.0,alpine,12.0
+858,1107,73571.3,2023,Austrian Grand Prix,sargeant,3.0,williams,13.0
+855,1107,73689.14285714286,2023,Austrian Grand Prix,zhou,51.0,alfa,14.0
+856,1107,73761.57142857143,2023,Austrian Grand Prix,de_vries,213.0,alphatauri,15.0
+822,1107,73948.34285714285,2023,Austrian Grand Prix,bottas,51.0,alfa,16.0
+852,1107,73978.28571428571,2023,Austrian Grand Prix,tsunoda,213.0,alphatauri,17.0
+857,1107,74002.5142857143,2023,Austrian Grand Prix,piastri,1.0,mclaren,18.0
+825,1107,74075.14285714286,2023,Austrian Grand Prix,kevin_magnussen,210.0,haas,19.0
+807,1107,82047.91666666667,2023,Austrian Grand Prix,hulkenberg,210.0,haas,20.0
+825,1108,94706.6129032258,2023,British Grand Prix,kevin_magnussen,210.0,haas,1.0
+839,1108,95150.11111111111,2023,British Grand Prix,ocon,214.0,alpine,2.0
+830,1108,98402.65384615384,2023,British Grand Prix,max_verstappen,9.0,red_bull,3.0
+846,1108,98475.69230769231,2023,British Grand Prix,norris,1.0,mclaren,4.0
+1,1108,98533.09615384616,2023,British Grand Prix,hamilton,131.0,mercedes,5.0
+857,1108,98552.19230769231,2023,British Grand Prix,piastri,1.0,mclaren,6.0
+847,1108,98618.15384615384,2023,British Grand Prix,russell,131.0,mercedes,7.0
+815,1108,98650.38461538461,2023,British Grand Prix,perez,9.0,red_bull,8.0
+4,1108,98733.28846153847,2023,British Grand Prix,alonso,117.0,aston_martin,9.0
+848,1108,98746.46153846153,2023,British Grand Prix,albon,3.0,williams,10.0
+844,1108,98762.05769230769,2023,British Grand Prix,leclerc,6.0,ferrari,11.0
+832,1108,98776.65384615384,2023,British Grand Prix,sainz,6.0,ferrari,12.0
+840,1108,98835.01923076923,2023,British Grand Prix,stroll,117.0,aston_martin,13.0
+858,1108,98857.11538461539,2023,British Grand Prix,sargeant,3.0,williams,14.0
+822,1108,98899.38461538461,2023,British Grand Prix,bottas,51.0,alfa,15.0
+807,1108,98915.40384615384,2023,British Grand Prix,hulkenberg,210.0,haas,16.0
+855,1108,98976.11538461539,2023,British Grand Prix,zhou,51.0,alfa,17.0
+852,1108,99003.13461538461,2023,British Grand Prix,tsunoda,213.0,alphatauri,18.0
+856,1108,99039.73076923077,2023,British Grand Prix,de_vries,213.0,alphatauri,19.0
+842,1108,101208.45652173914,2023,British Grand Prix,gasly,214.0,alpine,20.0
+830,1109,84123.34285714285,2023,Hungarian Grand Prix,max_verstappen,9.0,red_bull,1.0
+846,1109,84605.21428571429,2023,Hungarian Grand Prix,norris,1.0,mclaren,2.0
+815,1109,84660.52857142857,2023,Hungarian Grand Prix,perez,9.0,red_bull,3.0
+1,1109,84682.4,2023,Hungarian Grand Prix,hamilton,131.0,mercedes,4.0
+857,1109,85017.22857142857,2023,Hungarian Grand Prix,piastri,1.0,mclaren,5.0
+844,1109,85056.44285714286,2023,Hungarian Grand Prix,leclerc,6.0,ferrari,6.0
+847,1109,85063.7,2023,Hungarian Grand Prix,russell,131.0,mercedes,7.0
+832,1109,85138.67142857143,2023,Hungarian Grand Prix,sainz,6.0,ferrari,8.0
+4,1109,85204.9,2023,Hungarian Grand Prix,alonso,117.0,aston_martin,9.0
+840,1109,85554.33333333333,2023,Hungarian Grand Prix,stroll,117.0,aston_martin,10.0
+848,1109,85764.07246376811,2023,Hungarian Grand Prix,albon,3.0,williams,11.0
+822,1109,85778.44927536232,2023,Hungarian Grand Prix,bottas,51.0,alfa,12.0
+817,1109,85867.98550724638,2023,Hungarian Grand Prix,ricciardo,213.0,alphatauri,13.0
+807,1109,86085.97101449275,2023,Hungarian Grand Prix,hulkenberg,210.0,haas,14.0
+852,1109,86089.52173913043,2023,Hungarian Grand Prix,tsunoda,213.0,alphatauri,15.0
+855,1109,86219.20289855072,2023,Hungarian Grand Prix,zhou,51.0,alfa,16.0
+858,1109,86406.32835820895,2023,Hungarian Grand Prix,sargeant,3.0,williams,17.0
+825,1109,86536.01449275362,2023,Hungarian Grand Prix,kevin_magnussen,210.0,haas,18.0
+839,1109,104073.0,2023,Hungarian Grand Prix,ocon,214.0,alpine,19.0
+842,1109,124981.0,2023,Hungarian Grand Prix,gasly,214.0,alpine,20.0
+830,1110,112510.22727272728,2023,Belgian Grand Prix,max_verstappen,9.0,red_bull,1.0
+815,1110,113017.15909090909,2023,Belgian Grand Prix,perez,9.0,red_bull,2.0
+844,1110,113243.38636363637,2023,Belgian Grand Prix,leclerc,6.0,ferrari,3.0
+1,1110,113639.11363636363,2023,Belgian Grand Prix,hamilton,131.0,mercedes,4.0
+4,1110,113787.13636363637,2023,Belgian Grand Prix,alonso,117.0,aston_martin,5.0
+847,1110,113944.34090909091,2023,Belgian Grand Prix,russell,131.0,mercedes,6.0
+846,1110,114185.65909090909,2023,Belgian Grand Prix,norris,1.0,mclaren,7.0
+839,1110,114208.38636363637,2023,Belgian Grand Prix,ocon,214.0,alpine,8.0
+840,1110,114313.40909090909,2023,Belgian Grand Prix,stroll,117.0,aston_martin,9.0
+852,1110,114333.43181818182,2023,Belgian Grand Prix,tsunoda,213.0,alphatauri,10.0
+842,1110,114398.5,2023,Belgian Grand Prix,gasly,214.0,alpine,11.0
+822,1110,114446.38636363637,2023,Belgian Grand Prix,bottas,51.0,alfa,12.0
+855,1110,114679.34090909091,2023,Belgian Grand Prix,zhou,51.0,alfa,13.0
+848,1110,114696.22727272728,2023,Belgian Grand Prix,albon,3.0,williams,14.0
+825,1110,114822.81818181818,2023,Belgian Grand Prix,kevin_magnussen,210.0,haas,15.0
+817,1110,114852.75,2023,Belgian Grand Prix,ricciardo,213.0,alphatauri,16.0
+858,1110,114884.68181818182,2023,Belgian Grand Prix,sargeant,3.0,williams,17.0
+807,1110,115020.45454545454,2023,Belgian Grand Prix,hulkenberg,210.0,haas,18.0
+832,1110,117123.69565217392,2023,Belgian Grand Prix,sainz,6.0,ferrari,19.0
+855,1111,84215.16129032258,2023,Dutch Grand Prix,zhou,51.0,alfa,1.0
+844,1111,87349.87804878049,2023,Dutch Grand Prix,leclerc,6.0,ferrari,2.0
+858,1111,93030.57142857143,2023,Dutch Grand Prix,sargeant,3.0,williams,3.0
+830,1111,120061.26388888889,2023,Dutch Grand Prix,max_verstappen,9.0,red_bull,4.0
+4,1111,120113.26388888889,2023,Dutch Grand Prix,alonso,117.0,aston_martin,5.0
+815,1111,120131.65277777778,2023,Dutch Grand Prix,perez,9.0,red_bull,6.0
+842,1111,120159.29166666667,2023,Dutch Grand Prix,gasly,214.0,alpine,7.0
+832,1111,120235.44444444444,2023,Dutch Grand Prix,sainz,6.0,ferrari,8.0
+1,1111,120244.72222222222,2023,Dutch Grand Prix,hamilton,131.0,mercedes,9.0
+846,1111,120245.04166666667,2023,Dutch Grand Prix,norris,1.0,mclaren,10.0
+848,1111,120271.75,2023,Dutch Grand Prix,albon,3.0,williams,11.0
+857,1111,120291.54166666667,2023,Dutch Grand Prix,piastri,1.0,mclaren,12.0
+839,1111,120316.06944444444,2023,Dutch Grand Prix,ocon,214.0,alpine,13.0
+840,1111,120340.25,2023,Dutch Grand Prix,stroll,117.0,aston_martin,14.0
+807,1111,120350.70833333333,2023,Dutch Grand Prix,hulkenberg,210.0,haas,15.0
+852,1111,120407.0,2023,Dutch Grand Prix,tsunoda,213.0,alphatauri,16.0
+859,1111,120424.41666666667,2023,Dutch Grand Prix,lawson,213.0,alphatauri,17.0
+825,1111,120428.06944444444,2023,Dutch Grand Prix,kevin_magnussen,210.0,haas,18.0
+822,1111,120441.65277777778,2023,Dutch Grand Prix,bottas,51.0,alfa,19.0
+847,1111,120835.625,2023,Dutch Grand Prix,russell,131.0,mercedes,20.0
+830,1112,86689.07843137255,2023,Italian Grand Prix,max_verstappen,9.0,red_bull,1.0
+815,1112,86807.98039215687,2023,Italian Grand Prix,perez,9.0,red_bull,2.0
+832,1112,86908.54901960785,2023,Italian Grand Prix,sainz,6.0,ferrari,3.0
+844,1112,86912.1568627451,2023,Italian Grand Prix,leclerc,6.0,ferrari,4.0
+847,1112,87042.56862745098,2023,Italian Grand Prix,russell,131.0,mercedes,5.0
+1,1112,87427.88235294117,2023,Italian Grand Prix,hamilton,131.0,mercedes,6.0
+848,1112,87573.50980392157,2023,Italian Grand Prix,albon,3.0,williams,7.0
+846,1112,87580.23529411765,2023,Italian Grand Prix,norris,1.0,mclaren,8.0
+4,1112,87596.80392156863,2023,Italian Grand Prix,alonso,117.0,aston_martin,9.0
+822,1112,87945.07843137255,2023,Italian Grand Prix,bottas,51.0,alfa,10.0
+857,1112,88023.86274509804,2023,Italian Grand Prix,piastri,1.0,mclaren,11.0
+859,1112,88074.13725490196,2023,Italian Grand Prix,lawson,213.0,alphatauri,12.0
+858,1112,88131.37254901961,2023,Italian Grand Prix,sargeant,3.0,williams,13.0
+855,1112,88260.92156862745,2023,Italian Grand Prix,zhou,51.0,alfa,14.0
+842,1112,88306.92156862745,2023,Italian Grand Prix,gasly,214.0,alpine,15.0
+840,1112,88400.17647058824,2023,Italian Grand Prix,stroll,117.0,aston_martin,16.0
+807,1112,88464.72,2023,Italian Grand Prix,hulkenberg,210.0,haas,17.0
+825,1112,88675.34,2023,Italian Grand Prix,kevin_magnussen,210.0,haas,18.0
+839,1112,89101.97435897436,2023,Italian Grand Prix,ocon,214.0,alpine,19.0
+832,1113,103184.16129032258,2023,Singapore Grand Prix,sainz,6.0,ferrari,1.0
+846,1113,103197.25806451614,2023,Singapore Grand Prix,norris,1.0,mclaren,2.0
+1,1113,103204.62903225806,2023,Singapore Grand Prix,hamilton,131.0,mercedes,3.0
+847,1113,103261.18032786885,2023,Singapore Grand Prix,russell,131.0,mercedes,4.0
+844,1113,103525.7258064516,2023,Singapore Grand Prix,leclerc,6.0,ferrari,5.0
+830,1113,103529.98387096774,2023,Singapore Grand Prix,max_verstappen,9.0,red_bull,6.0
+842,1113,103804.17741935483,2023,Singapore Grand Prix,gasly,214.0,alpine,7.0
+857,1113,103853.17741935483,2023,Singapore Grand Prix,piastri,1.0,mclaren,8.0
+815,1113,104063.74193548386,2023,Singapore Grand Prix,perez,9.0,red_bull,9.0
+859,1113,104247.35483870968,2023,Singapore Grand Prix,lawson,213.0,alphatauri,10.0
+825,1113,104347.32258064517,2023,Singapore Grand Prix,kevin_magnussen,210.0,haas,11.0
+848,1113,104368.30645161291,2023,Singapore Grand Prix,albon,3.0,williams,12.0
+839,1113,104408.04761904762,2023,Singapore Grand Prix,ocon,214.0,alpine,13.0
+855,1113,104533.33870967742,2023,Singapore Grand Prix,zhou,51.0,alfa,14.0
+807,1113,104574.5,2023,Singapore Grand Prix,hulkenberg,210.0,haas,15.0
+858,1113,104585.59677419355,2023,Singapore Grand Prix,sargeant,3.0,williams,16.0
+4,1113,104597.1129032258,2023,Singapore Grand Prix,alonso,117.0,aston_martin,17.0
+822,1113,105515.96078431372,2023,Singapore Grand Prix,bottas,51.0,alfa,18.0
+830,1114,102989.07547169812,2023,Japanese Grand Prix,max_verstappen,9.0,red_bull,1.0
+846,1114,103354.8679245283,2023,Japanese Grand Prix,norris,1.0,mclaren,2.0
+857,1114,103677.64150943396,2023,Japanese Grand Prix,piastri,1.0,mclaren,3.0
+844,1114,103819.22641509434,2023,Japanese Grand Prix,leclerc,6.0,ferrari,4.0
+1,1114,103920.69811320755,2023,Japanese Grand Prix,hamilton,131.0,mercedes,5.0
+832,1114,103936.64150943396,2023,Japanese Grand Prix,sainz,6.0,ferrari,6.0
+847,1114,104076.98113207547,2023,Japanese Grand Prix,russell,131.0,mercedes,7.0
+4,1114,104398.98113207547,2023,Japanese Grand Prix,alonso,117.0,aston_martin,8.0
+839,1114,104492.43396226416,2023,Japanese Grand Prix,ocon,214.0,alpine,9.0
+842,1114,104558.03773584905,2023,Japanese Grand Prix,gasly,214.0,alpine,10.0
+859,1114,105029.03846153847,2023,Japanese Grand Prix,lawson,213.0,alphatauri,11.0
+852,1114,105046.05769230769,2023,Japanese Grand Prix,tsunoda,213.0,alphatauri,12.0
+855,1114,105091.55769230769,2023,Japanese Grand Prix,zhou,51.0,alfa,13.0
+807,1114,105154.21153846153,2023,Japanese Grand Prix,hulkenberg,210.0,haas,14.0
+825,1114,105538.28846153847,2023,Japanese Grand Prix,kevin_magnussen,210.0,haas,15.0
+848,1114,111964.5,2023,Japanese Grand Prix,albon,3.0,williams,16.0
+840,1114,113665.15,2023,Japanese Grand Prix,stroll,117.0,aston_martin,17.0
+858,1114,115889.68181818182,2023,Japanese Grand Prix,sargeant,3.0,williams,18.0
+822,1114,146219.0,2023,Japanese Grand Prix,bottas,51.0,alfa,19.0
+815,1114,292526.2,2023,Japanese Grand Prix,perez,9.0,red_bull,20.0
+830,1115,92266.1052631579,2023,Qatar Grand Prix,max_verstappen,9.0,red_bull,1.0
+857,1115,92350.8947368421,2023,Qatar Grand Prix,piastri,1.0,mclaren,2.0
+846,1115,92370.82456140351,2023,Qatar Grand Prix,norris,1.0,mclaren,3.0
+847,1115,92864.68421052632,2023,Qatar Grand Prix,russell,131.0,mercedes,4.0
+844,1115,92949.8947368421,2023,Qatar Grand Prix,leclerc,6.0,ferrari,5.0
+4,1115,93126.31578947368,2023,Qatar Grand Prix,alonso,117.0,aston_martin,6.0
+839,1115,93360.66666666667,2023,Qatar Grand Prix,ocon,214.0,alpine,7.0
+822,1115,93433.87719298246,2023,Qatar Grand Prix,bottas,51.0,alfa,8.0
+840,1115,93523.15789473684,2023,Qatar Grand Prix,stroll,117.0,aston_martin,9.0
+842,1115,93534.52631578948,2023,Qatar Grand Prix,gasly,214.0,alpine,10.0
+815,1115,93585.0701754386,2023,Qatar Grand Prix,perez,9.0,red_bull,11.0
+855,1115,93601.66666666667,2023,Qatar Grand Prix,zhou,51.0,alfa,12.0
+848,1115,93687.40350877192,2023,Qatar Grand Prix,albon,3.0,williams,13.0
+825,1115,93935.96428571429,2023,Qatar Grand Prix,kevin_magnussen,210.0,haas,14.0
+852,1115,94073.67857142857,2023,Qatar Grand Prix,tsunoda,213.0,alphatauri,15.0
+807,1115,94183.08928571429,2023,Qatar Grand Prix,hulkenberg,210.0,haas,16.0
+859,1115,94397.78571428571,2023,Qatar Grand Prix,lawson,213.0,alphatauri,17.0
+858,1115,96705.15,2023,Qatar Grand Prix,sargeant,3.0,williams,18.0
+830,1116,102167.17857142857,2023,United States Grand Prix,max_verstappen,9.0,red_bull,1.0
+1,1116,102206.91071428571,2023,United States Grand Prix,hamilton,131.0,mercedes,2.0
+846,1116,102358.78571428571,2023,United States Grand Prix,norris,1.0,mclaren,3.0
+832,1116,102437.42857142857,2023,United States Grand Prix,sainz,6.0,ferrari,4.0
+815,1116,102496.82142857143,2023,United States Grand Prix,perez,9.0,red_bull,5.0
+844,1116,102607.57142857143,2023,United States Grand Prix,leclerc,6.0,ferrari,6.0
+847,1116,102613.58928571429,2023,United States Grand Prix,russell,131.0,mercedes,7.0
+842,1116,103024.25,2023,United States Grand Prix,gasly,214.0,alpine,8.0
+840,1116,103036.75,2023,United States Grand Prix,stroll,117.0,aston_martin,9.0
+852,1116,103495.48214285714,2023,United States Grand Prix,tsunoda,213.0,alphatauri,10.0
+848,1116,103626.35714285714,2023,United States Grand Prix,albon,3.0,williams,11.0
+4,1116,103637.28571428571,2023,United States Grand Prix,alonso,117.0,aston_martin,12.0
+858,1116,103738.57142857143,2023,United States Grand Prix,sargeant,3.0,williams,13.0
+807,1116,103772.60714285714,2023,United States Grand Prix,hulkenberg,210.0,haas,14.0
+822,1116,103927.91071428571,2023,United States Grand Prix,bottas,51.0,alfa,15.0
+855,1116,104089.78181818181,2023,United States Grand Prix,zhou,51.0,alfa,16.0
+825,1116,104171.52727272727,2023,United States Grand Prix,kevin_magnussen,210.0,haas,17.0
+817,1116,104185.70909090909,2023,United States Grand Prix,ricciardo,213.0,alphatauri,18.0
+857,1116,105956.4,2023,United States Grand Prix,piastri,1.0,mclaren,19.0
+839,1116,108074.83333333333,2023,United States Grand Prix,ocon,214.0,alpine,20.0
+825,1117,86645.58064516129,2023,Mexico City Grand Prix,kevin_magnussen,210.0,haas,1.0
+815,1117,103446.0,2023,Mexico City Grand Prix,perez,9.0,red_bull,2.0
+830,1117,103532.59154929577,2023,Mexico City Grand Prix,max_verstappen,9.0,red_bull,3.0
+1,1117,103728.01408450704,2023,Mexico City Grand Prix,hamilton,131.0,mercedes,4.0
+844,1117,103858.28169014085,2023,Mexico City Grand Prix,leclerc,6.0,ferrari,5.0
+832,1117,103915.04225352113,2023,Mexico City Grand Prix,sainz,6.0,ferrari,6.0
+846,1117,104001.12676056338,2023,Mexico City Grand Prix,norris,1.0,mclaren,7.0
+847,1117,104110.33802816902,2023,Mexico City Grand Prix,russell,131.0,mercedes,8.0
+817,1117,104118.08450704225,2023,Mexico City Grand Prix,ricciardo,213.0,alphatauri,9.0
+857,1117,104139.69014084506,2023,Mexico City Grand Prix,piastri,1.0,mclaren,10.0
+848,1117,104216.71830985915,2023,Mexico City Grand Prix,albon,3.0,williams,11.0
+839,1117,104418.21126760563,2023,Mexico City Grand Prix,ocon,214.0,alpine,12.0
+842,1117,104465.0985915493,2023,Mexico City Grand Prix,gasly,214.0,alpine,13.0
+852,1117,104645.01408450704,2023,Mexico City Grand Prix,tsunoda,213.0,alphatauri,14.0
+807,1117,104663.7042253521,2023,Mexico City Grand Prix,hulkenberg,210.0,haas,15.0
+822,1117,104667.76056338029,2023,Mexico City Grand Prix,bottas,51.0,alfa,16.0
+855,1117,104682.95774647887,2023,Mexico City Grand Prix,zhou,51.0,alfa,17.0
+858,1117,104883.94285714286,2023,Mexico City Grand Prix,sargeant,3.0,williams,18.0
+840,1117,106426.31818181818,2023,Mexico City Grand Prix,stroll,117.0,aston_martin,19.0
+4,1117,115299.85106382979,2023,Mexico City Grand Prix,alonso,117.0,aston_martin,20.0
+830,1118,98716.81690140846,2023,São Paulo Grand Prix,max_verstappen,9.0,red_bull,1.0
+846,1118,98833.39436619719,2023,São Paulo Grand Prix,norris,1.0,mclaren,2.0
+4,1118,99197.87323943662,2023,São Paulo Grand Prix,alonso,117.0,aston_martin,3.0
+815,1118,99198.61971830986,2023,São Paulo Grand Prix,perez,9.0,red_bull,4.0
+840,1118,99292.0985915493,2023,São Paulo Grand Prix,stroll,117.0,aston_martin,5.0
+832,1118,99423.69014084506,2023,São Paulo Grand Prix,sainz,6.0,ferrari,6.0
+842,1118,99506.85915492958,2023,São Paulo Grand Prix,gasly,214.0,alpine,7.0
+1,1118,99602.15492957746,2023,São Paulo Grand Prix,hamilton,131.0,mercedes,8.0
+852,1118,99701.04225352113,2023,São Paulo Grand Prix,tsunoda,213.0,alphatauri,9.0
+839,1118,100267.64285714286,2023,São Paulo Grand Prix,ocon,214.0,alpine,10.0
+858,1118,100501.45714285714,2023,São Paulo Grand Prix,sargeant,3.0,williams,11.0
+807,1118,100555.05714285714,2023,São Paulo Grand Prix,hulkenberg,210.0,haas,12.0
+817,1118,101126.5,2023,São Paulo Grand Prix,ricciardo,213.0,alphatauri,13.0
+857,1118,101630.86956521739,2023,São Paulo Grand Prix,piastri,1.0,mclaren,14.0
+847,1118,106208.73684210527,2023,São Paulo Grand Prix,russell,131.0,mercedes,15.0
+822,1118,119252.1282051282,2023,São Paulo Grand Prix,bottas,51.0,alfa,16.0
+855,1118,152290.13636363635,2023,São Paulo Grand Prix,zhou,51.0,alfa,17.0
+830,1119,106965.78,2023,Las Vegas Grand Prix,max_verstappen,9.0,red_bull,1.0
+844,1119,107007.18,2023,Las Vegas Grand Prix,leclerc,6.0,ferrari,2.0
+815,1119,107010.6,2023,Las Vegas Grand Prix,perez,9.0,red_bull,3.0
+847,1119,107327.6,2023,Las Vegas Grand Prix,russell,131.0,mercedes,4.0
+839,1119,107339.08,2023,Las Vegas Grand Prix,ocon,214.0,alpine,5.0
+840,1119,107367.12,2023,Las Vegas Grand Prix,stroll,117.0,aston_martin,6.0
+832,1119,107382.46,2023,Las Vegas Grand Prix,sainz,6.0,ferrari,7.0
+1,1119,107400.88,2023,Las Vegas Grand Prix,hamilton,131.0,mercedes,8.0
+4,1119,107485.06,2023,Las Vegas Grand Prix,alonso,117.0,aston_martin,9.0
+857,1119,107555.7,2023,Las Vegas Grand Prix,piastri,1.0,mclaren,10.0
+842,1119,107651.18,2023,Las Vegas Grand Prix,gasly,214.0,alpine,11.0
+848,1119,107833.74,2023,Las Vegas Grand Prix,albon,3.0,williams,12.0
+825,1119,107862.28,2023,Las Vegas Grand Prix,kevin_magnussen,210.0,haas,13.0
+817,1119,107936.28,2023,Las Vegas Grand Prix,ricciardo,213.0,alphatauri,14.0
+855,1119,107969.02,2023,Las Vegas Grand Prix,zhou,51.0,alfa,15.0
+858,1119,107983.42,2023,Las Vegas Grand Prix,sargeant,3.0,williams,16.0
+822,1119,108672.78,2023,Las Vegas Grand Prix,bottas,51.0,alfa,17.0
+807,1119,108973.11111111111,2023,Las Vegas Grand Prix,hulkenberg,210.0,haas,18.0
+852,1119,109107.19565217392,2023,Las Vegas Grand Prix,tsunoda,213.0,alphatauri,19.0
+846,1119,124844.5,2023,Las Vegas Grand Prix,norris,1.0,mclaren,20.0
+830,1120,90045.24137931035,2023,Abu Dhabi Grand Prix,max_verstappen,9.0,red_bull,1.0
+815,1120,90328.91379310345,2023,Abu Dhabi Grand Prix,perez,9.0,red_bull,2.0
+844,1120,90355.46551724138,2023,Abu Dhabi Grand Prix,leclerc,6.0,ferrari,3.0
+847,1120,90395.72413793103,2023,Abu Dhabi Grand Prix,russell,131.0,mercedes,4.0
+846,1120,90463.93103448275,2023,Abu Dhabi Grand Prix,norris,1.0,mclaren,5.0
+857,1120,90588.12068965517,2023,Abu Dhabi Grand Prix,piastri,1.0,mclaren,6.0
+4,1120,90726.4827586207,2023,Abu Dhabi Grand Prix,alonso,117.0,aston_martin,7.0
+852,1120,90788.13793103448,2023,Abu Dhabi Grand Prix,tsunoda,213.0,alphatauri,8.0
+1,1120,90811.1724137931,2023,Abu Dhabi Grand Prix,hamilton,131.0,mercedes,9.0
+840,1120,91004.41379310345,2023,Abu Dhabi Grand Prix,stroll,117.0,aston_martin,10.0
+817,1120,91014.70689655172,2023,Abu Dhabi Grand Prix,ricciardo,213.0,alphatauri,11.0
+839,1120,91189.60344827586,2023,Abu Dhabi Grand Prix,ocon,214.0,alpine,12.0
+842,1120,91258.3448275862,2023,Abu Dhabi Grand Prix,gasly,214.0,alpine,13.0
+848,1120,91307.03448275862,2023,Abu Dhabi Grand Prix,albon,3.0,williams,14.0
+832,1120,91419.70175438597,2023,Abu Dhabi Grand Prix,sainz,6.0,ferrari,15.0
+807,1120,91488.27586206897,2023,Abu Dhabi Grand Prix,hulkenberg,210.0,haas,16.0
+858,1120,91558.87931034483,2023,Abu Dhabi Grand Prix,sargeant,3.0,williams,17.0
+855,1120,91587.0,2023,Abu Dhabi Grand Prix,zhou,51.0,alfa,18.0
+822,1120,91842.71929824562,2023,Abu Dhabi Grand Prix,bottas,51.0,alfa,19.0
+825,1120,91885.9649122807,2023,Abu Dhabi Grand Prix,kevin_magnussen,210.0,haas,20.0
+830,1121,96574.42105263157,2024,Bahrain Grand Prix,max_verstappen,9.0,red_bull,1.0
+815,1121,96968.40350877192,2024,Bahrain Grand Prix,perez,9.0,red_bull,2.0
+832,1121,97014.94736842105,2024,Bahrain Grand Prix,sainz,6.0,ferrari,3.0
+844,1121,97270.36842105263,2024,Bahrain Grand Prix,leclerc,6.0,ferrari,4.0
+847,1121,97395.26315789473,2024,Bahrain Grand Prix,russell,131.0,mercedes,5.0
+846,1121,97424.56140350878,2024,Bahrain Grand Prix,norris,1.0,mclaren,6.0
+1,1121,97457.29824561403,2024,Bahrain Grand Prix,hamilton,131.0,mercedes,7.0
+857,1121,97558.31578947368,2024,Bahrain Grand Prix,piastri,1.0,mclaren,8.0
+4,1121,97888.22807017544,2024,Bahrain Grand Prix,alonso,117.0,aston_martin,9.0
+840,1121,98209.78947368421,2024,Bahrain Grand Prix,stroll,117.0,aston_martin,10.0
+855,1121,98419.66071428571,2024,Bahrain Grand Prix,zhou,15.0,sauber,11.0
+825,1121,98447.46428571429,2024,Bahrain Grand Prix,kevin_magnussen,210.0,haas,12.0
+817,1121,98458.92857142857,2024,Bahrain Grand Prix,ricciardo,215.0,rb,13.0
+852,1121,98468.28571428571,2024,Bahrain Grand Prix,tsunoda,215.0,rb,14.0
+848,1121,98511.21428571429,2024,Bahrain Grand Prix,albon,3.0,williams,15.0
+807,1121,98613.82142857143,2024,Bahrain Grand Prix,hulkenberg,210.0,haas,16.0
+839,1121,98860.57142857143,2024,Bahrain Grand Prix,ocon,214.0,alpine,17.0
+842,1121,98877.83928571429,2024,Bahrain Grand Prix,gasly,214.0,alpine,18.0
+822,1121,99785.21428571429,2024,Bahrain Grand Prix,bottas,15.0,sauber,19.0
+858,1121,100464.3090909091,2024,Bahrain Grand Prix,sargeant,3.0,williams,20.0
+830,1122,96865.46,2024,Saudi Arabian Grand Prix,max_verstappen,9.0,red_bull,1.0
+815,1122,97038.32,2024,Saudi Arabian Grand Prix,perez,9.0,red_bull,2.0
+840,1122,97121.6,2024,Saudi Arabian Grand Prix,stroll,117.0,aston_martin,3.0
+844,1122,97238.24,2024,Saudi Arabian Grand Prix,leclerc,6.0,ferrari,4.0
+857,1122,97505.6,2024,Saudi Arabian Grand Prix,piastri,1.0,mclaren,5.0
+4,1122,97580.64,2024,Saudi Arabian Grand Prix,alonso,117.0,aston_martin,6.0
+847,1122,97664.18,2024,Saudi Arabian Grand Prix,russell,131.0,mercedes,7.0
+860,1122,97719.04,2024,Saudi Arabian Grand Prix,bearman,,,8.0
+846,1122,97779.62,2024,Saudi Arabian Grand Prix,norris,1.0,mclaren,9.0
+1,1122,97813.28,2024,Saudi Arabian Grand Prix,hamilton,131.0,mercedes,10.0
+807,1122,98405.38,2024,Saudi Arabian Grand Prix,hulkenberg,210.0,haas,11.0
+825,1122,98580.2,2024,Saudi Arabian Grand Prix,kevin_magnussen,210.0,haas,12.0
+848,1122,98632.54,2024,Saudi Arabian Grand Prix,albon,3.0,williams,13.0
+839,1122,98923.95918367348,2024,Saudi Arabian Grand Prix,ocon,214.0,alpine,14.0
+852,1122,98955.22448979592,2024,Saudi Arabian Grand Prix,tsunoda,215.0,rb,15.0
+858,1122,98980.77551020408,2024,Saudi Arabian Grand Prix,sargeant,3.0,williams,16.0
+817,1122,99265.0612244898,2024,Saudi Arabian Grand Prix,ricciardo,215.0,rb,17.0
+822,1122,99314.04081632652,2024,Saudi Arabian Grand Prix,bottas,15.0,sauber,18.0
+855,1122,99445.42857142857,2024,Saudi Arabian Grand Prix,zhou,15.0,sauber,19.0
+842,1122,121453.0,2024,Saudi Arabian Grand Prix,gasly,214.0,alpine,20.0
+832,1123,83221.43103448275,2024,Australian Grand Prix,sainz,6.0,ferrari,1.0
+844,1123,83262.22413793103,2024,Australian Grand Prix,leclerc,6.0,ferrari,2.0
+846,1123,83323.22413793103,2024,Australian Grand Prix,norris,1.0,mclaren,3.0
+847,1123,83655.96428571429,2024,Australian Grand Prix,russell,131.0,mercedes,4.0
+857,1123,83838.1551724138,2024,Australian Grand Prix,piastri,1.0,mclaren,5.0
+815,1123,84192.27586206897,2024,Australian Grand Prix,perez,9.0,red_bull,6.0
+4,1123,84617.8448275862,2024,Australian Grand Prix,alonso,117.0,aston_martin,7.0
+825,1123,84753.05263157895,2024,Australian Grand Prix,kevin_magnussen,210.0,haas,8.0
+848,1123,84769.33333333333,2024,Australian Grand Prix,albon,3.0,williams,9.0
+840,1123,84828.70689655172,2024,Australian Grand Prix,stroll,117.0,aston_martin,10.0
+852,1123,84869.72413793103,2024,Australian Grand Prix,tsunoda,215.0,rb,11.0
+817,1123,84883.35087719298,2024,Australian Grand Prix,ricciardo,215.0,rb,12.0
+830,1123,84890.66666666667,2024,Australian Grand Prix,max_verstappen,9.0,red_bull,13.0
+807,1123,85024.06896551725,2024,Australian Grand Prix,hulkenberg,210.0,haas,14.0
+1,1123,85228.4,2024,Australian Grand Prix,hamilton,131.0,mercedes,15.0
+842,1123,85312.21052631579,2024,Australian Grand Prix,gasly,214.0,alpine,16.0
+822,1123,85424.01754385965,2024,Australian Grand Prix,bottas,15.0,sauber,17.0
+855,1123,85458.52631578948,2024,Australian Grand Prix,zhou,15.0,sauber,18.0
+839,1123,85628.45614035087,2024,Australian Grand Prix,ocon,214.0,alpine,19.0
+830,1124,129501.24528301887,2024,Japanese Grand Prix,max_verstappen,9.0,red_bull,1.0
+815,1124,129737.75471698113,2024,Japanese Grand Prix,perez,9.0,red_bull,2.0
+832,1124,129894.94339622642,2024,Japanese Grand Prix,sainz,6.0,ferrari,3.0
+844,1124,130001.6603773585,2024,Japanese Grand Prix,leclerc,6.0,ferrari,4.0
+846,1124,130061.62264150943,2024,Japanese Grand Prix,norris,1.0,mclaren,5.0
+4,1124,130336.56603773584,2024,Japanese Grand Prix,alonso,117.0,aston_martin,6.0
+847,1124,130368.24528301887,2024,Japanese Grand Prix,russell,131.0,mercedes,7.0
+857,1124,130397.94339622642,2024,Japanese Grand Prix,piastri,1.0,mclaren,8.0
+1,1124,130418.71698113208,2024,Japanese Grand Prix,hamilton,131.0,mercedes,9.0
+852,1124,132022.46153846153,2024,Japanese Grand Prix,tsunoda,215.0,rb,10.0
+807,1124,132129.5,2024,Japanese Grand Prix,hulkenberg,210.0,haas,11.0
+840,1124,132207.67307692306,2024,Japanese Grand Prix,stroll,117.0,aston_martin,12.0
+825,1124,132336.25,2024,Japanese Grand Prix,kevin_magnussen,210.0,haas,13.0
+822,1124,132354.98076923078,2024,Japanese Grand Prix,bottas,15.0,sauber,14.0
+839,1124,132783.03846153847,2024,Japanese Grand Prix,ocon,214.0,alpine,15.0
+842,1124,133050.61538461538,2024,Japanese Grand Prix,gasly,214.0,alpine,16.0
+858,1124,133390.98076923078,2024,Japanese Grand Prix,sargeant,3.0,williams,17.0
+855,1124,247418.5,2024,Japanese Grand Prix,zhou,15.0,sauber,18.0
+822,1125,104132.63157894737,2024,Chinese Grand Prix,bottas,15.0,sauber,1.0
+830,1125,108081.32142857143,2024,Chinese Grand Prix,max_verstappen,9.0,red_bull,2.0
+846,1125,108327.26785714286,2024,Chinese Grand Prix,norris,1.0,mclaren,3.0
+815,1125,108423.46428571429,2024,Chinese Grand Prix,perez,9.0,red_bull,4.0
+844,1125,108503.16071428571,2024,Chinese Grand Prix,leclerc,6.0,ferrari,5.0
+832,1125,108688.16071428571,2024,Chinese Grand Prix,sainz,6.0,ferrari,6.0
+847,1125,108772.82142857143,2024,Chinese Grand Prix,russell,131.0,mercedes,7.0
+4,1125,108856.57142857143,2024,Chinese Grand Prix,alonso,117.0,aston_martin,8.0
+857,1125,109084.85714285714,2024,Chinese Grand Prix,piastri,1.0,mclaren,9.0
+1,1125,109116.78571428571,2024,Chinese Grand Prix,hamilton,131.0,mercedes,10.0
+807,1125,109161.25,2024,Chinese Grand Prix,hulkenberg,210.0,haas,11.0
+839,1125,109202.96428571429,2024,Chinese Grand Prix,ocon,214.0,alpine,12.0
+848,1125,109251.07142857143,2024,Chinese Grand Prix,albon,3.0,williams,13.0
+842,1125,109317.44642857143,2024,Chinese Grand Prix,gasly,214.0,alpine,14.0
+855,1125,109361.48214285714,2024,Chinese Grand Prix,zhou,15.0,sauber,15.0
+825,1125,109465.83928571429,2024,Chinese Grand Prix,kevin_magnussen,210.0,haas,16.0
+840,1125,109559.64285714286,2024,Chinese Grand Prix,stroll,117.0,aston_martin,17.0
+858,1125,109601.14285714286,2024,Chinese Grand Prix,sargeant,3.0,williams,18.0
+852,1125,111046.73076923077,2024,Chinese Grand Prix,tsunoda,215.0,rb,19.0
+817,1125,115062.69696969698,2024,Chinese Grand Prix,ricciardo,215.0,rb,20.0
+846,1126,95611.85964912281,2024,Miami Grand Prix,norris,1.0,mclaren,1.0
+858,1126,95686.66666666667,2024,Miami Grand Prix,sargeant,3.0,williams,2.0
+830,1126,95745.40350877192,2024,Miami Grand Prix,max_verstappen,9.0,red_bull,3.0
+844,1126,95785.8947368421,2024,Miami Grand Prix,leclerc,6.0,ferrari,4.0
+832,1126,95811.98245614035,2024,Miami Grand Prix,sainz,6.0,ferrari,5.0
+815,1126,95868.87719298246,2024,Miami Grand Prix,perez,9.0,red_bull,6.0
+1,1126,95902.82456140351,2024,Miami Grand Prix,hamilton,131.0,mercedes,7.0
+852,1126,96071.24561403508,2024,Miami Grand Prix,tsunoda,215.0,rb,8.0
+847,1126,96222.19298245614,2024,Miami Grand Prix,russell,131.0,mercedes,9.0
+4,1126,96262.85964912281,2024,Miami Grand Prix,alonso,117.0,aston_martin,10.0
+839,1126,96309.15789473684,2024,Miami Grand Prix,ocon,214.0,alpine,11.0
+807,1126,96327.45614035087,2024,Miami Grand Prix,hulkenberg,210.0,haas,12.0
+842,1126,96400.59649122808,2024,Miami Grand Prix,gasly,214.0,alpine,13.0
+840,1126,96404.36842105263,2024,Miami Grand Prix,stroll,117.0,aston_martin,14.0
+857,1126,96484.77192982456,2024,Miami Grand Prix,piastri,1.0,mclaren,15.0
+855,1126,96488.68421052632,2024,Miami Grand Prix,zhou,15.0,sauber,16.0
+817,1126,96505.82456140351,2024,Miami Grand Prix,ricciardo,215.0,rb,17.0
+822,1126,96530.38596491228,2024,Miami Grand Prix,bottas,15.0,sauber,18.0
+825,1126,96571.21052631579,2024,Miami Grand Prix,kevin_magnussen,210.0,haas,19.0
+848,1126,96946.78947368421,2024,Miami Grand Prix,albon,3.0,williams,20.0
+830,1127,81353.20634920635,2024,Emilia Romagna Grand Prix,max_verstappen,9.0,red_bull,1.0
+846,1127,81364.71428571429,2024,Emilia Romagna Grand Prix,norris,1.0,mclaren,2.0
+844,1127,81478.85714285714,2024,Emilia Romagna Grand Prix,leclerc,6.0,ferrari,3.0
+857,1127,81577.52380952382,2024,Emilia Romagna Grand Prix,piastri,1.0,mclaren,4.0
+832,1127,81707.57142857143,2024,Emilia Romagna Grand Prix,sainz,6.0,ferrari,5.0
+1,1127,81910.41269841269,2024,Emilia Romagna Grand Prix,hamilton,131.0,mercedes,6.0
+847,1127,82101.68253968254,2024,Emilia Romagna Grand Prix,russell,131.0,mercedes,7.0
+815,1127,82222.66666666667,2024,Emilia Romagna Grand Prix,perez,9.0,red_bull,8.0
+840,1127,82616.0,2024,Emilia Romagna Grand Prix,stroll,117.0,aston_martin,9.0
+852,1127,82953.35483870968,2024,Emilia Romagna Grand Prix,tsunoda,215.0,rb,10.0
+807,1127,83073.04838709677,2024,Emilia Romagna Grand Prix,hulkenberg,210.0,haas,11.0
+825,1127,83091.70967741935,2024,Emilia Romagna Grand Prix,kevin_magnussen,210.0,haas,12.0
+817,1127,83111.5,2024,Emilia Romagna Grand Prix,ricciardo,215.0,rb,13.0
+839,1127,83373.53225806452,2024,Emilia Romagna Grand Prix,ocon,214.0,alpine,14.0
+855,1127,83390.08064516129,2024,Emilia Romagna Grand Prix,zhou,15.0,sauber,15.0
+842,1127,83467.20967741935,2024,Emilia Romagna Grand Prix,gasly,214.0,alpine,16.0
+858,1127,83488.75806451614,2024,Emilia Romagna Grand Prix,sargeant,3.0,williams,17.0
+822,1127,83574.1129032258,2024,Emilia Romagna Grand Prix,bottas,15.0,sauber,18.0
+4,1127,83877.03225806452,2024,Emilia Romagna Grand Prix,alonso,117.0,aston_martin,19.0
+848,1127,86033.90196078431,2024,Emilia Romagna Grand Prix,albon,3.0,williams,20.0
+844,1128,110199.41025641025,2024,Monaco Grand Prix,leclerc,6.0,ferrari,1.0
+857,1128,110291.10256410256,2024,Monaco Grand Prix,piastri,1.0,mclaren,2.0
+832,1128,110296.65384615384,2024,Monaco Grand Prix,sainz,6.0,ferrari,3.0
+846,1128,110310.30769230769,2024,Monaco Grand Prix,norris,1.0,mclaren,4.0
+847,1128,110370.03846153847,2024,Monaco Grand Prix,russell,131.0,mercedes,5.0
+830,1128,110377.01282051283,2024,Monaco Grand Prix,max_verstappen,9.0,red_bull,6.0
+1,1128,110390.53846153847,2024,Monaco Grand Prix,hamilton,131.0,mercedes,7.0
+852,1128,112143.38961038961,2024,Monaco Grand Prix,tsunoda,215.0,rb,8.0
+848,1128,112332.54545454546,2024,Monaco Grand Prix,albon,3.0,williams,9.0
+842,1128,112412.92207792208,2024,Monaco Grand Prix,gasly,214.0,alpine,10.0
+4,1128,113150.1052631579,2024,Monaco Grand Prix,alonso,117.0,aston_martin,11.0
+817,1128,113155.5,2024,Monaco Grand Prix,ricciardo,215.0,rb,12.0
+822,1128,113158.44736842105,2024,Monaco Grand Prix,bottas,15.0,sauber,13.0
+840,1128,113177.90789473684,2024,Monaco Grand Prix,stroll,117.0,aston_martin,14.0
+858,1128,113218.15789473684,2024,Monaco Grand Prix,sargeant,3.0,williams,15.0
+855,1128,113826.5,2024,Monaco Grand Prix,zhou,15.0,sauber,16.0
+830,1129,90684.67142857143,2024,Canadian Grand Prix,max_verstappen,9.0,red_bull,1.0
+846,1129,90740.08571428571,2024,Canadian Grand Prix,norris,1.0,mclaren,2.0
+847,1129,90746.34285714285,2024,Canadian Grand Prix,russell,131.0,mercedes,3.0
+1,1129,90754.88571428572,2024,Canadian Grand Prix,hamilton,131.0,mercedes,4.0
+857,1129,90830.37142857142,2024,Canadian Grand Prix,piastri,1.0,mclaren,5.0
+4,1129,90934.81428571428,2024,Canadian Grand Prix,alonso,117.0,aston_martin,6.0
+840,1129,91022.17142857143,2024,Canadian Grand Prix,stroll,117.0,aston_martin,7.0
+817,1129,91094.27142857143,2024,Canadian Grand Prix,ricciardo,215.0,rb,8.0
+842,1129,91113.54285714286,2024,Canadian Grand Prix,gasly,214.0,alpine,9.0
+839,1129,91117.71428571429,2024,Canadian Grand Prix,ocon,214.0,alpine,10.0
+807,1129,91125.0142857143,2024,Canadian Grand Prix,hulkenberg,210.0,haas,11.0
+825,1129,91131.14285714286,2024,Canadian Grand Prix,kevin_magnussen,210.0,haas,12.0
+822,1129,91263.05714285714,2024,Canadian Grand Prix,bottas,15.0,sauber,13.0
+852,1129,91437.44285714286,2024,Canadian Grand Prix,tsunoda,215.0,rb,14.0
+832,1129,92086.0,2024,Canadian Grand Prix,sainz,6.0,ferrari,15.0
+848,1129,92096.92307692308,2024,Canadian Grand Prix,albon,3.0,williams,16.0
+815,1129,92368.0,2024,Canadian Grand Prix,perez,9.0,red_bull,17.0
+855,1129,92774.71014492754,2024,Canadian Grand Prix,zhou,15.0,sauber,18.0
+858,1129,94109.52173913043,2024,Canadian Grand Prix,sargeant,3.0,williams,19.0
+844,1129,96082.7,2024,Canadian Grand Prix,leclerc,6.0,ferrari,20.0
+830,1130,80306.4696969697,2024,Spanish Grand Prix,max_verstappen,9.0,red_bull,1.0
+846,1130,80340.09090909091,2024,Spanish Grand Prix,norris,1.0,mclaren,2.0
+1,1130,80576.01515151515,2024,Spanish Grand Prix,hamilton,131.0,mercedes,3.0
+847,1130,80644.65151515152,2024,Spanish Grand Prix,russell,131.0,mercedes,4.0
+844,1130,80650.54545454546,2024,Spanish Grand Prix,leclerc,6.0,ferrari,5.0
+832,1130,80776.59090909091,2024,Spanish Grand Prix,sainz,6.0,ferrari,6.0
+857,1130,80817.98484848485,2024,Spanish Grand Prix,piastri,1.0,mclaren,7.0
+815,1130,81208.34848484848,2024,Spanish Grand Prix,perez,9.0,red_bull,8.0
+842,1130,81246.24242424243,2024,Spanish Grand Prix,gasly,214.0,alpine,9.0
+839,1130,81395.69696969698,2024,Spanish Grand Prix,ocon,214.0,alpine,10.0
+807,1130,81430.93939393939,2024,Spanish Grand Prix,hulkenberg,210.0,haas,11.0
+4,1130,81688.06153846154,2024,Spanish Grand Prix,alonso,117.0,aston_martin,12.0
+855,1130,81780.04615384615,2024,Spanish Grand Prix,zhou,15.0,sauber,13.0
+840,1130,81930.44615384615,2024,Spanish Grand Prix,stroll,117.0,aston_martin,14.0
+817,1130,82219.64615384616,2024,Spanish Grand Prix,ricciardo,215.0,rb,15.0
+822,1130,82362.15384615384,2024,Spanish Grand Prix,bottas,15.0,sauber,16.0
+825,1130,82384.84615384616,2024,Spanish Grand Prix,kevin_magnussen,210.0,haas,17.0
+848,1130,82436.55384615385,2024,Spanish Grand Prix,albon,3.0,williams,18.0
+852,1130,82525.0923076923,2024,Spanish Grand Prix,tsunoda,215.0,rb,19.0
+858,1130,82892.078125,2024,Spanish Grand Prix,sargeant,3.0,williams,20.0
+847,1131,71307.01408450704,2024,Austrian Grand Prix,russell,131.0,mercedes,1.0
+857,1131,71333.85915492958,2024,Austrian Grand Prix,piastri,1.0,mclaren,2.0
+832,1131,71370.85915492958,2024,Austrian Grand Prix,sainz,6.0,ferrari,3.0
+1,1131,71632.95774647887,2024,Austrian Grand Prix,hamilton,131.0,mercedes,4.0
+830,1131,71690.85915492958,2024,Austrian Grand Prix,max_verstappen,9.0,red_bull,5.0
+846,1131,71735.21875,2024,Austrian Grand Prix,norris,1.0,mclaren,6.0
+807,1131,72068.81690140846,2024,Austrian Grand Prix,hulkenberg,210.0,haas,7.0
+815,1131,72077.04225352113,2024,Austrian Grand Prix,perez,9.0,red_bull,8.0
+825,1131,72157.08450704225,2024,Austrian Grand Prix,kevin_magnussen,210.0,haas,9.0
+817,1131,72168.54929577465,2024,Austrian Grand Prix,ricciardo,215.0,rb,10.0
+842,1131,72176.95774647887,2024,Austrian Grand Prix,gasly,214.0,alpine,11.0
+844,1131,72251.4647887324,2024,Austrian Grand Prix,leclerc,6.0,ferrari,12.0
+839,1131,72269.33802816902,2024,Austrian Grand Prix,ocon,214.0,alpine,13.0
+840,1131,72471.88571428572,2024,Austrian Grand Prix,stroll,117.0,aston_martin,14.0
+848,1131,72480.91428571429,2024,Austrian Grand Prix,albon,3.0,williams,15.0
+852,1131,72513.47142857143,2024,Austrian Grand Prix,tsunoda,215.0,rb,16.0
+822,1131,72602.47142857143,2024,Austrian Grand Prix,bottas,15.0,sauber,17.0
+855,1131,72966.85714285714,2024,Austrian Grand Prix,zhou,15.0,sauber,18.0
+4,1131,73006.54285714286,2024,Austrian Grand Prix,alonso,117.0,aston_martin,19.0
+858,1131,73465.31884057971,2024,Austrian Grand Prix,sargeant,3.0,williams,20.0
